@@ -1,0 +1,5001 @@
+rank,title,age_group
+1,The Shawshank Redemption,R
+2,The Dark Knight,PG-13
+3,Inception,PG-13
+4,Fight Club,R
+5,Forrest Gump,PG-13
+6,Interstellar,PG-13
+7,Pulp Fiction,R
+8,The Matrix,R
+9,The Godfather,R
+10,The Lord of the Rings: The Fellowship of the Ring,PG-13
+11,The Lord of the Rings: The Return of the King,PG-13
+12,The Dark Knight Rises,PG-13
+13,Se7en,R
+14,The Lord of the Rings: The Two Towers,PG-13
+15,Django Unchained,R
+16,Gladiator,R
+17,The Wolf of Wall Street,R
+18,Inglourious Basterds,R
+19,Batman Begins,PG-13
+20,The Silence of the Lambs,R
+21,Joker,R
+22,Saving Private Ryan,R
+23,Shutter Island,R
+24,Schindler's List,R
+25,The Prestige,PG-13
+26,The Avengers,PG-13
+27,Star Wars: Episode IV - A New Hope,PG
+28,The Departed,R
+29,The Green Mile,R
+30,Star Wars: Episode V - The Empire Strikes Back,PG
+31,Avatar,PG-13
+32,The Godfather Part II,R
+33,Memento,R
+34,Back to the Future,PG
+35,Avengers: Endgame,PG-13
+36,Titanic,PG-13
+37,Goodfellas,R
+38,Guardians of the Galaxy,PG-13
+39,Léon: The Professional,R
+40,Avengers: Infinity War,PG-13
+41,The Truman Show,PG
+42,Pirates of the Caribbean: The Curse of the Black Pearl,PG-13
+43,WALL·E,G
+44,Kill Bill: Vol. 1,R
+45,American Beauty,R
+46,Terminator 2: Judgment Day,R
+47,American History X,R
+48,V for Vendetta,R
+49,Deadpool,R
+50,The Lion King,G
+51,The Usual Suspects,R
+52,Up,PG
+53,Iron Man,PG-13
+54,The Shining,R
+55,Mad Max: Fury Road,R
+56,Star Wars: Episode VI - Return of the Jedi,PG
+57,Catch Me If You Can,PG-13
+58,Finding Nemo,G
+59,Eternal Sunshine of the Spotless Mind,R
+60,Good Will Hunting,R
+61,Reservoir Dogs,R
+62,Braveheart,R
+63,Toy Story,G
+64,No Country for Old Men,R
+65,Gone Girl,R
+66,Jurassic Park,PG-13
+67,One Flew Over the Cuckoo's Nest,R
+68,The Sixth Sense,PG-13
+69,Raiders of the Lost Ark,PG
+70,Whiplash,R
+71,Parasite,R
+72,The Hunger Games,PG-13
+73,"Monsters, Inc.",G
+74,A Beautiful Mind,PG-13
+75,Alien,R
+76,Star Wars: Episode VII - The Force Awakens,PG-13
+77,Harry Potter and the Deathly Hallows: Part 2,PG-13
+78,Die Hard,R
+79,Taxi Driver,R
+80,The Intouchables,R
+81,The Martian,PG-13
+82,The Pianist,R
+83,The Terminator,R
+84,Scarface,R
+85,Avengers: Age of Ultron,PG-13
+86,Dune: Part One,PG-13
+87,Spider-Man: No Way Home,PG-13
+88,Snatch,R
+89,Requiem for a Dream,NC-17
+90,Captain America: The Winter Soldier,PG-13
+91,Thor,PG-13
+92,Captain America: The First Avenger,PG-13
+93,Iron Man 3,PG-13
+94,Toy Story 3,G
+95,The Grand Budapest Hotel,R
+96,12 Angry Men,Approved
+97,Spider-Man,PG-13
+98,A Clockwork Orange,R
+99,The Revenant,R
+100,Spirited Away,PG
+101,Once Upon a Time... in Hollywood,R
+102,Harry Potter and the Sorcerer's Stone,PG
+103,The Hobbit: An Unexpected Journey,PG-13
+104,Iron Man 2,PG-13
+105,Slumdog Millionaire,R
+106,300,R
+107,The Big Lebowski,R
+108,Star Wars: Episode I - The Phantom Menace,PG
+109,Logan,R
+110,Captain America: Civil War,PG-13
+111,The Hangover,R
+112,Ratatouille,G
+113,Oppenheimer,R
+114,Gravity,PG-13
+115,Donnie Darko,R
+116,Star Wars: Episode III - Revenge of the Sith,PG-13
+117,Black Panther,PG-13
+118,Prisoners,R
+119,The Batman,PG-13
+120,Inside Out,PG
+121,Black Swan,R
+122,Thor: Ragnarok,PG-13
+123,Blade Runner,R
+124,The Incredibles,PG
+125,The Imitation Game,PG-13
+126,"The Good, the Bad and the Ugly",R
+127,I Am Legend,PG-13
+128,How to Train Your Dragon,PG
+129,Doctor Strange,PG-13
+130,Gran Torino,R
+131,Indiana Jones and the Last Crusade,PG-13
+132,Kill Bill: Vol. 2,R
+133,City of God,R
+134,Man of Steel,PG-13
+135,Full Metal Jacket,R
+136,Amélie,R
+137,Knives Out,PG-13
+138,Arrival,PG-13
+139,Aliens,R
+140,Sin City,R
+141,Pirates of the Caribbean: Dead Man's Chest,PG-13
+142,Guardians of the Galaxy Vol. 2,PG-13
+143,The Social Network,PG-13
+144,Star Wars: Episode II - Attack of the Clones,PG
+145,John Wick,R
+146,American Psycho,R
+147,Life Is Beautiful,PG-13
+148,Shrek,PG
+149,Dunkirk,PG-13
+150,Top Gun: Maverick,PG-13
+151,Batman v Superman: Dawn of Justice,R
+152,Edge of Tomorrow,PG-13
+153,X-Men: Days of Future Past,PG-13
+154,12 Years a Slave,R
+155,Silver Linings Playbook,R
+156,Get Out,R
+157,Spider-Man: Homecoming,PG-13
+158,Heat,R
+159,Fargo,R
+160,2001: A Space Odyssey,G
+161,World War Z,PG-13
+162,Kingsman: The Secret Service,R
+163,Psycho,R
+164,Thor: The Dark World,PG-13
+165,Skyfall,PG-13
+166,Ant-Man,PG-13
+167,Trainspotting,R
+168,The Hunger Games: Catching Fire,PG-13
+169,X-Men: First Class,PG-13
+170,Million Dollar Baby,PG-13
+171,Spider-Man 2,PG-13
+172,Apocalypse Now,R
+173,Suicide Squad,PG-13
+174,Now You See Me,PG-13
+175,District 9,R
+176,Drive,R
+177,The Amazing Spider-Man,PG-13
+178,The Hobbit: The Desolation of Smaug,PG-13
+179,Harry Potter and the Chamber of Secrets,PG
+180,Harry Potter and the Prisoner of Azkaban,PG
+181,Spider-Man: Into the Spider-Verse,PG
+182,1917,R
+183,Pan's Labyrinth,R
+184,The King's Speech,R
+185,The Curious Case of Benjamin Button,PG-13
+186,Wonder Woman,PG-13
+187,Pirates of the Caribbean: At World's End,PG-13
+188,La La Land,PG-13
+189,Casino Royale,PG-13
+190,Harry Potter and the Goblet of Fire,PG-13
+191,Groundhog Day,PG
+192,Rogue One: A Star Wars Story,PG-13
+193,Blade Runner 2049,R
+194,Deadpool 2,R
+195,Jurassic World,PG-13
+196,Her,R
+197,Transformers,PG-13
+198,Home Alone,PG
+199,Star Wars: Episode VIII - The Last Jedi,PG-13
+200,Jaws,PG
+201,The Hateful Eight,R
+202,Sherlock Holmes,PG-13
+203,Frozen,PG
+204,Life of Pi,PG
+205,Ted,R
+206,Birdman or (The Unexpected Virtue of Ignorance),R
+207,Into the Wild,R
+208,Oldboy,R
+209,Prometheus,R
+210,X-Men,PG-13
+211,The Bourne Ultimatum,PG-13
+212,There Will Be Blood,R
+213,Spider-Man 3,PG-13
+214,Harry Potter and the Order of the Phoenix,PG-13
+215,Cast Away,PG-13
+216,12 Monkeys,R
+217,Superbad,R
+218,Rocky,PG
+219,Taken,PG-13
+220,The Notebook,PG-13
+221,Argo,R
+222,The Matrix Reloaded,R
+223,Baby Driver,R
+224,Coco,PG
+225,Zombieland,R
+226,Ocean's Eleven,PG-13
+227,Toy Story 2,G
+228,It,R
+229,L.A. Confidential,R
+230,Men in Black,PG-13
+231,Don't Look Up,R
+232,Captain Marvel,PG-13
+233,Nightcrawler,R
+234,Hacksaw Ridge,R
+235,"Lock, Stock and Two Smoking Barrels",R
+236,Zodiac,R
+237,Green Book,PG-13
+238,Casablanca,PG
+239,Harry Potter and the Deathly Hallows: Part 1,PG-13
+240,Star Trek,PG-13
+241,Limitless,PG-13
+242,Tenet,PG-13
+243,A Quiet Place,PG-13
+244,Harry Potter and the Half-Blood Prince,PG
+245,Independence Day,PG-13
+246,Dune: Part Two,PG-13
+247,21 Jump Street,R
+248,Bohemian Rhapsody,PG-13
+249,The Great Gatsby,PG-13
+250,Shaun of the Dead,R
+251,Looper,R
+252,Ex Machina,R
+253,Despicable Me,PG
+254,Kick-Ass,R
+255,Blood Diamond,R
+256,Barbie,PG-13
+257,Minority Report,PG-13
+258,Watchmen,R
+259,Back to the Future Part II,PG
+260,X2: X-Men United,PG-13
+261,"I, Robot",PG-13
+262,The Hobbit: The Battle of the Five Armies,R
+263,Spider-Man: Far from Home,PG-13
+264,The Bourne Identity,PG-13
+265,Troy,R
+266,Rise of the Planet of the Apes,PG-13
+267,Casino,R
+268,"Crazy, Stupid, Love.",PG-13
+269,The Pursuit of Happyness,PG-13
+270,Split,PG-13
+271,Dead Poets Society,PG
+272,500 Days of Summer,PG-13
+273,Monty Python and the Holy Grail,PG
+274,Pirates of the Caribbean: On Stranger Tides,PG-13
+275,The Conjuring,R
+276,"Three Billboards Outside Ebbing, Missouri",R
+277,Everything Everywhere All at Once,R
+278,Zootopia,PG
+279,Fury,R
+280,The Kashmir Files,Not Rated
+281,Venom,PG-13
+282,Oblivion,PG-13
+283,The Perks of Being a Wallflower,PG-13
+284,Source Code,PG-13
+285,Mr. & Mrs. Smith,PG-13
+286,Rain Man,R
+287,The Amazing Spider-Man 2,PG-13
+288,Juno,PG-13
+289,The Matrix Revolutions,R
+290,X-Men: The Last Stand,PG-13
+291,Love Actually,R
+292,Lucy,R
+293,The Hangover Part II,R
+294,X-Men Origins: Wolverine,PG-13
+295,Indiana Jones and the Temple of Doom,PG
+296,Hot Fuzz,R
+297,Charlie and the Chocolate Factory,PG
+298,Kung Fu Panda,PG
+299,American Sniper,R
+300,Children of Men,R
+301,Children of Men,R
+302,Edward Scissorhands,PG-13
+303,Rear Window,PG
+304,Pacific Rim,PG-13
+305,The Incredible Hulk,PG-13
+306,Mission: Impossible - Ghost Protocol,PG-13
+307,Ice Age,PG
+308,The Butterfly Effect,R
+309,John Wick: Chapter 2,R
+310,Aquaman,PG-13
+311,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG
+312,Little Miss Sunshine,R
+313,The Maze Runner,PG-13
+314,Dallas Buyers Club,R
+315,Rush,R
+316,Avatar: The Way of Water,PG-13
+317,Shrek 2,PG
+318,Big Hero 6,PG
+319,Hancock,R
+320,It's a Wonderful Life,PG
+321,Top Gun,PG
+322,The Fifth Element,PG-13
+323,Fantastic Beasts and Where to Find Them,PG-13
+324,The Hunger Games: Mockingjay - Part 1,PG-13
+325,Ford v Ferrari,PG-13
+326,Tangled,PG
+327,Spotlight,R
+328,Star Wars: Episode IX - The Rise of Skywalker,PG-13
+329,Ready Player One,PG-13
+330,Warrior,PG-13
+331,The Terminal,PG-13
+332,Doctor Strange in the Multiverse of Madness,PG-13
+333,The Girl with the Dragon Tattoo,R
+334,The Help,PG-13
+335,The Wolverine,PG-13
+336,Lost in Translation,R
+337,The Big Short,R
+338,American Hustle,R
+339,Captain Phillips,PG-13
+340,Sicario,R
+341,We're the Millers,R
+342,Twilight,PG-13
+343,Divergent,PG-13
+344,Star Trek Into Darkness,PG-13
+345,Mystic River,R
+346,Indiana Jones and the Kingdom of the Crystal Skull,PG-13
+347,Cars,G
+348,Back to the Future Part III,PG
+349,The Bourne Supremacy,PG-13
+350,Dawn of the Planet of the Apes,PG-13
+351,The Devil Wears Prada,PG-13
+352,The Thing,R
+353,The Theory of Everything,PG-13
+354,The Day After Tomorrow,PG-13
+355,Training Day,R
+356,Beauty and the Beast,G
+357,Sherlock Holmes: A Game of Shadows,PG-13
+358,Justice League,PG-13
+359,Deadpool & Wolverine,R
+360,Bullet Train,R
+361,War of the Worlds,PG-13
+362,Saw,R
+363,The Last Samurai,R
+364,Gangs of New York,R
+365,Mission: Impossible,PG-13
+366,Aladdin,G
+367,Moneyball,PG-13
+368,The 40-Year-Old Virgin,R
+369,The Hurt Locker,R
+370,Quantum of Solace,PG-13
+371,Elysium,R
+372,The Mummy,PG-13
+373,Howl's Moving Castle,PG
+374,Scott Pilgrim vs. the World,PG-13
+375,Citizen Kane,PG
+376,Spectre,PG-13
+377,Horrible Bosses,R
+378,Wreck-It Ralph,PG
+379,In Bruges,R
+380,X-Men: Apocalypse,PG-13
+381,Jumanji: Welcome to the Jungle,PG-13
+382,The Exorcist,R
+383,Predator,R
+384,Glass Onion,PG-13
+385,Passengers,PG-13
+386,28 Days Later,R
+387,The Da Vinci Code,PG-13
+388,The Cabin in the Woods,R
+389,Ant-Man and the Wasp,PG-13
+390,American Gangster,R
+391,Ghostbusters,PG
+392,Big Fish,PG-13
+393,Room,R
+394,Tropic Thunder,R
+395,In Time,PG-13
+396,Jojo Rabbit,PG-13
+397,The Princess Bride,PG
+398,Armageddon,PG-13
+399,No Time to Die,PG-13
+400,Stand by Me,R
+401,Shang-Chi and the Legend of the Ten Rings,PG-13
+402,Midnight in Paris,PG-13
+403,Brave,PG
+404,Free Guy,PG-13
+405,Mean Girls,PG-13
+406,The Shape of Water,R
+407,Borat,R
+408,Princess Mononoke,PG-13
+409,King Kong,PG-13
+410,The Lost World: Jurassic Park,PG-13
+411,Madagascar,PG
+412,3 Idiots,PG-13
+413,Unbreakable,PG-13
+414,The Breakfast Club,R
+415,Crash,R
+416,Platoon,R
+417,Zack Snyder's Justice League,R
+418,Alice in Wonderland,PG
+419,Unforgiven,R
+420,Godzilla,PG-13
+421,E.T. the Extra-Terrestrial,PG
+422,The Irishman,R
+423,The Menu,R
+424,Bruce Almighty,PG-13
+425,John Wick: Chapter 3 - Parabellum,R
+426,The Game,R
+427,American Pie,R
+428,Spider-Man: Across the Spider-Verse,PG
+429,Black Widow,PG-13
+430,The Wizard of Oz,G
+431,Collateral,R
+432,Amadeus,PG
+433,Midsommar,R
+434,The Mask,PG-13
+435,This Is the End,R
+436,The Equalizer,R
+437,Vertigo,PG
+438,Transformers: Dark of the Moon,PG-13
+439,Despicable Me 2,PG
+440,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",PG
+441,Transformers: Revenge of the Fallen,PG-13
+442,Black Hawk Down,R
+443,The Godfather Part III,R
+444,The Fast and the Furious,PG-13
+445,A Star Is Born,R
+446,Cloverfield,PG-13
+447,The Gentlemen,R
+448,The Suicide Squad,R
+449,Thor: Love and Thunder,PG-13
+450,Easy A,PG-13
+451,The Town,R
+452,Live Free or Die Hard,PG-13
+453,The Machinist,R
+454,Monty Python's Life of Brian,R
+455,Dumb and Dumber,PG-13
+456,Home Alone 2: Lost in New York,PG
+457,Fast & Furious 6,PG-13
+458,Terminator 3: Rise of the Machines,R
+459,The Lives of Others,R
+460,Furious 7,PG-13
+461,Ocean's Twelve,PG-13
+462,Guardians of the Galaxy Vol. 3,PG-13
+463,Mission: Impossible - Rogue Nation,PG-13
+464,22 Jump Street,R
+465,The Devil's Advocate,R
+466,Fast Five,PG-13
+467,Die Hard with a Vengeance,R
+468,Wanted,R
+469,Batman,PG-13
+470,Men in Black II,PG-13
+471,Hereditary,R
+472,10 Things I Hate About You,PG-13
+473,Scream,R
+474,The Fault in Our Stars,PG-13
+475,Face/Off,R
+476,Moana,PG
+477,127 Hours,R
+478,Maleficent,PG
+479,Inside Man,R
+480,About Time,R
+481,2012,PG-13
+482,The Others,PG-13
+483,Friends with Benefits,R
+484,Monsters University,G
+485,Speed,R
+486,Soul,PG
+487,Eternals,PG-13
+488,Snowpiercer,R
+489,Mulholland Drive,R
+490,My Neighbor Totoro,G
+491,Bird Box,R
+492,Mission: Impossible III,PG-13
+493,Man on Fire,R
+494,Beetlejuice,PG
+495,Ferris Bueller's Day Off,PG-13
+496,The Lego Movie,PG
+497,Signs,PG-13
+498,Brokeback Mountain,R
+499,Men in Black³,PG-13
+500,Shazam!,PG-13
+501,Sleepy Hollow,R
+502,The Fighter,R
+503,The Italian Job,PG-13
+504,Eyes Wide Shut,TV-MA
+505,50 First Dates,PG-13
+506,Sweeney Todd: The Demon Barber of Fleet Street,R
+507,The Illusionist,PG-13
+508,Die Hard 2,R
+509,Raging Bull,R
+510,The Nightmare Before Christmas,PG
+511,The Aviator,PG-13
+512,Jumanji,PG
+513,Yes Man,PG-13
+514,Once Upon a Time in America,R
+515,Mission: Impossible - Fallout,PG-13
+516,The Nice Guys,R
+517,Solo: A Star Wars Story,PG-13
+518,The Hunger Games: Mockingjay - Part 2,PG-13
+519,Night at the Museum,PG
+520,Knocked Up,R
+521,Constantine,R
+522,Mission: Impossible II,PG-13
+523,Anchorman: The Legend of Ron Burgundy,PG-13
+524,Jackie Brown,R
+525,The Ring,PG-13
+526,Downfall,R
+527,The Hunt,R
+528,Wedding Crashers,R
+529,Flight,R
+530,Moon,R
+531,Terminator Salvation,PG-13
+532,Pretty Woman,R
+533,Kingsman: The Golden Circle,R
+534,Hotel Rwanda,PG-13
+535,Seven Samurai,Not Rated
+536,Cloud Atlas,R
+537,How to Train Your Dragon 2,PG
+538,The Proposal,PG-13
+539,Jack Reacher,PG-13
+540,Annihilation,R
+541,Ocean's Thirteen,PG-13
+542,Boyhood,R
+543,John Wick: Chapter 4,R
+544,The Deer Hunter,R
+545,Moonrise Kingdom,PG-13
+546,Super 8,PG-13
+547,The Blind Side,PG-13
+548,The Expendables,R
+549,Click,PG-13
+550,10 Cloverfield Lane,PG-13
+551,Real Steel,PG-13
+552,The Rock,R
+553,Total Recall,R
+554,Meet the Parents,PG-13
+555,Once Upon a Time in the West,PG-13
+556,True Grit,PG-13
+557,The Interview,R
+558,National Treasure,PG
+559,Tron: Legacy,PG
+560,Shooter,R
+561,Us,R
+562,Due Date,R
+563,Pineapple Express,R
+564,Pirates of the Caribbean: Dead Men Tell No Tales,PG-13
+565,Chinatown,R
+566,Notting Hill,PG-13
+567,Burn After Reading,R
+568,Kong: Skull Island,PG-13
+569,Being John Malkovich,R
+570,Interview with the Vampire,R
+571,Pearl Harbor,PG-13
+572,Hellboy,PG-13
+573,Marriage Story,R
+574,North by Northwest,Approved
+575,Jurassic World: Fallen Kingdom,PG-13
+576,Before Sunrise,R
+577,The Mist,R
+578,The Simpsons Movie,PG-13
+579,The Mummy Returns,PG-13
+580,Fantastic Four,PG-13
+581,Up in the Air,R
+582,Equilibrium,R
+583,Your Name.,Not Rated
+584,The Secret Life of Walter Mitty,PG
+585,Les Misérables,PG-13
+586,From Dusk Till Dawn,R
+587,Insidious,PG-13
+588,Jurassic Park III,PG-13
+589,The Book of Eli,R
+590,Pride & Prejudice,PG
+591,Lady Bird,R
+592,Incredibles 2,PG
+593,The Dictator,R
+594,Scent of a Woman,R
+595,Liar Liar,PG-13
+596,Nobody,R
+597,Lord of War,R
+598,The Hangover Part III,R
+599,The Holiday,PG-13
+600,50/50,R
+601,Beauty and the Beast,PG
+602,Shrek the Third,PG
+603,Grave of the Fireflies,Not Rated
+604,The Man from U.N.C.L.E.,PG-13
+605,Fifty Shades of Grey,R
+606,Gone with the Wind,G
+607,School of Rock,PG-13
+608,Apocalypto,R
+609,The Accountant,R
+610,Donnie Brasco,R
+611,Hugo,PG
+612,To Kill a Mockingbird,Approved
+613,The Untouchables,R
+614,3:10 to Yuma,R
+615,Hitch,PG-13
+616,Moonlight,R
+617,Snow White,PG
+618,"O Brother, Where Art Thou?",PG-13
+619,Transformers: Age of Extinction,PG-13
+620,Pitch Perfect,PG-13
+621,Alien³,R
+622,Batman Returns,PG-13
+623,Poor Things,R
+624,Ace Ventura: Pet Detective,PG-13
+625,There's Something About Mary,R
+626,Red Notice,PG-13
+627,Call Me by Your Name,R
+628,Kung Fu Panda 2,PG
+629,Neighbors,R
+630,Magnolia,R
+631,8 Mile,R
+632,Salt,PG-13
+633,Deja Vu,PG-13
+634,Now You See Me 2,PG-13
+635,Bridge of Spies,PG-13
+636,Gattaca,PG-13
+637,Starship Troopers,R
+638,Uncut Gems,R
+639,The Island,PG-13
+640,Law Abiding Citizen,R
+641,Kingdom of Heaven,R
+642,The Fugitive,PG-13
+643,Manchester by the Sea,R
+644,Lucky Number Slevin,R
+645,Red,PG-13
+646,Mulan,G
+647,Jumper,PG-13
+648,A.I. Artificial Intelligence,PG-13
+649,The Witch,R
+650,Taken 2,PG-13
+651,Step Brothers,R
+652,The Greatest Showman,PG
+653,Zero Dark Thirty,R
+654,The Transporter,PG-13
+655,Con Air,R
+656,Elf,PG
+657,Insomnia,R
+658,Black Panther: Wakanda Forever,PG-13
+659,Alien: Covenant,R
+660,The Expendables 2,R
+661,Lawrence of Arabia,PG
+662,Public Enemies,R
+663,As Good as It Gets,PG-13
+664,Nocturnal Animals,R
+665,Hachi: A Dog's Tale,G
+666,A Bug's Life,G
+667,Apollo 13,PG
+668,The Wrestler,R
+669,Death Proof,R
+670,Contagion,PG-13
+671,Babel,R
+672,300: Rise of an Empire,R
+673,It Chapter Two,R
+674,Halloween,R
+675,Fast & Furious,PG-13
+676,The Royal Tenenbaums,R
+677,The Bourne Legacy,PG-13
+678,Predestination,R
+679,Fantastic Beasts: The Crimes of Grindelwald,PG-13
+680,Creed,PG-13
+681,Seven Pounds,PG-13
+682,Finding Dory,PG
+683,The Lobster,R
+684,The Conjuring 2,R
+685,Angels & Demons,PG-13
+686,Don't Breathe,R
+687,Bridesmaids,R
+688,Blade,R
+689,War for the Planet of the Apes,PG-13
+690,El Camino,TV-MA
+691,Lone Survivor,R
+692,The Fast and the Furious: Tokyo Drift,PG-13
+693,Grease,PG
+694,Atonement,R
+695,Corpse Bride,PG
+696,How the Grinch Stole Christmas,PG
+697,The Goonies,PG
+698,Prince of Persia: The Sands of Time,PG-13
+699,Alita: Battle Angel,PG-13
+700,Sully,PG-13
+701,Rush Hour,PG-13
+702,Serenity,PG-13
+703,Murder on the Orient Express,PG-13
+704,Forgetting Sarah Marshall,R
+705,The Twilight Saga: New Moon,PG-13
+706,Fear and Loathing in Las Vegas,R
+707,Snow White and the Huntsman,PG-13
+708,2 Fast 2 Furious,PG-13
+709,Me Before You,PG-13
+710,Megamind,PG
+711,28 Weeks Later,R
+712,Ice Age: The Meltdown,PG
+713,Moulin Rouge!,PG-13
+714,Panic Room,R
+715,The Platform,TV-MA
+716,The World's End,R
+717,Zoolander,R
+718,Bad Boys,R
+719,Rango,PG
+720,Dredd,R
+721,1408,PG-13
+722,Hannibal,R
+723,Mrs. Doubtfire,PG-13
+724,Almost Famous,R
+725,The Patriot,R
+726,Green Lantern,PG-13
+727,Contact,PG
+728,A Quiet Place Part II,PG-13
+729,Aladdin,PG
+730,Gone in 60 Seconds,PG-13
+731,Jumanji: The Next Level,PG-13
+732,Scary Movie,R
+733,Red Dragon,R
+734,Gone Baby Gone,R
+735,Wonder Woman 1984,PG-13
+736,The Little Mermaid,G
+737,BlacKkKlansman,R
+738,A Few Good Men,R
+739,The Blair Witch Project,R
+740,Before Sunset,R
+741,Dances with Wolves,PG-13
+742,Cinema Paradiso,PG
+743,Terminator Genisys,PG-13
+744,Olympus Has Fallen,R
+745,The Jungle Book,PG
+746,Final Destination,R
+747,Clash of the Titans,PG-13
+748,The Place Beyond the Pines,R
+749,Resident Evil,R
+750,The Other Guys,PG-13
+751,Sinister,R
+752,Office Space,R
+753,Jerry Maguire,R
+754,Nope,R
+755,Van Helsing,PG-13
+756,Toy Story 4,G
+757,The Substance,R
+758,How to Lose a Guy in 10 Days,PG-13
+759,Hotel Transylvania,PG
+760,The Graduate,PG
+761,Superman Returns,PG-13
+762,RoboCop,R
+763,Wind River,R
+764,Meet the Fockers,PG-13
+765,Kick-Ass 2,R
+766,Some Like It Hot,Approved
+767,Phone Booth,R
+768,Grown Ups,PG-13
+769,Vanilla Sky,R
+770,Underworld,R
+771,Hellboy II: The Golden Army,PG-13
+772,Road to Perdition,R
+773,John Carter,PG-13
+774,The Matrix Resurrections,R
+775,The Intern,PG-13
+776,Glass,PG-13
+777,Stardust,PG-13
+778,Maze Runner: The Scorch Trials,PG-13
+779,True Lies,R
+780,Black Adam,PG-13
+781,Boogie Nights,R
+782,Robin Hood,PG-13
+783,Mamma Mia!,PG-13
+784,The Sting,PG
+785,First Blood,R
+786,Warcraft,PG-13
+787,The Village,PG-13
+788,Dark Shadows,PG-13
+789,"Crouching Tiger, Hidden Dragon",PG-13
+790,For a Few Dollars More,R
+791,Saw II,R
+792,Venom: Let There Be Carnage,PG-13
+793,Lethal Weapon,R
+794,It Follows,R
+795,Focus,R
+796,Fantastic Four: Rise of the Silver Surfer,PG
+797,Enemy at the Gates,R
+798,Hulk,PG-13
+799,Fantastic Mr. Fox,PG
+800,Furiosa: A Mad Max Saga,R
+801,Annie Hall,PG
+802,Mission: Impossible - Dead Reckoning Part One,PG-13
+803,Coraline,PG
+804,Train to Busan,Not Rated
+805,The Lion King,PG
+806,Non-Stop,PG-13
+807,Hook,PG
+808,Meet Joe Black,PG-13
+809,Blow,R
+810,The Lighthouse,R
+811,Dog Day Afternoon,R
+812,Alien Resurrection,R
+813,Uncharted,PG-13
+814,Seven Psychopaths,R
+815,Encanto,PG
+816,Dawn of the Dead,R
+817,Cruella,PG-13
+818,Bad Boys II,R
+819,End of Watch,R
+820,Killers of the Flower Moon,R
+821,Identity,R
+822,Das Boot,Not Rated
+823,Lincoln,PG-13
+824,American Pie 2,R
+825,The Banshees of Inisherin,R
+826,The Northman,R
+827,Bridget Jones's Diary,R
+828,Chappie,R
+829,Extraction,R
+830,Just Go with It,PG-13
+831,GoldenEye,PG-13
+832,A Nightmare on Elm Street,R
+833,The Adjustment Bureau,PG-13
+834,War Dogs,R
+835,Sunshine,R
+836,Dodgeball: A True Underdog Story,PG-13
+837,Batman & Robin,PG-13
+838,The Sound of Music,G
+839,Ice Age: Dawn of the Dinosaurs,PG
+840,Batman Forever,PG-13
+841,Vicky Cristina Barcelona,PG-13
+842,Walk the Line,PG-13
+843,Paul,R
+844,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,R
+845,21,PG-13
+846,Hidden Figures,PG
+847,Unknown,PG-13
+848,Airplane!,PG
+849,The A-Team,PG-13
+850,Perfume: The Story of a Murderer,R
+851,All Quiet on the Western Front,R
+852,Minions,PG
+853,Modern Times,G
+854,The Elephant Man,PG
+855,Singin' in the Rain,G
+856,The Twilight Saga: Breaking Dawn - Part 2,PG-13
+857,Total Recall,PG-13
+858,Noah,PG-13
+859,Cloudy with a Chance of Meatballs,PG
+860,Crank,R
+861,Changeling,R
+862,The Invisible Man,R
+863,RocknRolla,R
+864,Eastern Promises,R
+865,The Twilight Saga: Eclipse,PG-13
+866,Ad Astra,PG-13
+867,Chronicle,PG-13
+868,The Grey,R
+869,Dirty Dancing,PG-13
+870,A Separation,PG-13
+871,The Reader,R
+872,Southpaw,R
+873,The Great Escape,Approved
+874,Spy,R
+875,Enemy of the State,R
+876,Hercules,G
+877,Life,R
+878,The Super Mario Bros. Movie,PG
+879,San Andreas,PG-13
+880,Philadelphia,PG-13
+881,Amores Perros,R
+882,Orphan,R
+883,Valkyrie,PG-13
+884,Little Women,PG
+885,The Bucket List,PG-13
+886,Legally Blonde,PG-13
+887,Austin Powers: International Man of Mystery,PG-13
+888,Game Night,R
+889,Escape Plan,R
+890,Disturbia,PG-13
+891,Star Trek Beyond,PG-13
+892,Hell or High Water,R
+893,Paranormal Activity,R
+894,A History of Violence,R
+895,The Fate of the Furious,PG-13
+896,Insurgent,PG-13
+897,Battleship,PG-13
+898,The Twilight Saga: Breaking Dawn - Part 1,PG-13
+899,The Road,R
+900,The Tourist,PG-13
+901,Ben-Hur,G
+902,Happy Gilmore,PG-13
+903,The Lincoln Lawyer,R
+904,Clueless,PG-13
+905,What's Eating Gilbert Grape,PG-13
+906,The Boy in the Striped Pajamas,PG-13
+907,Gremlins,PG
+908,National Treasure: Book of Secrets,PG
+909,The Talented Mr. Ripley,R
+910,Rio,G
+911,The Beach,R
+912,Ghost Rider,PG-13
+913,The Babadook,Not Rated
+914,Ender's Game,PG-13
+915,The Passion of the Christ,R
+916,Natural Born Killers,R
+917,The Descent,R
+918,Madagascar: Escape 2 Africa,PG
+919,Lion,PG-13
+920,Mother!,R
+921,Pitch Black,R
+922,Primal Fear,R
+923,Dungeons & Dragons: Honor Among Thieves,PG-13
+924,Tarzan,G
+925,"Me, Myself & Irene",R
+926,Lawless,R
+927,The Karate Kid,PG
+928,The Gray Man,PG-13
+929,The Polar Express,G
+930,The Boondock Saints,R
+931,Sucker Punch,PG-13
+932,Godzilla vs. Kong,PG-13
+933,The Descendants,R
+934,Austin Powers: The Spy Who Shagged Me,PG-13
+935,Knowing,PG-13
+936,Dracula,R
+937,The Impossible,PG-13
+938,The Hitman's Bodyguard,R
+939,Cube,R
+940,When Harry Met Sally...,R
+941,The Fountain,PG-13
+942,Ghostbusters,PG-13
+943,"I, Tonya",R
+944,Silent Hill,R
+945,The Artist,PG-13
+946,Predators,R
+947,True Romance,R
+948,Mars Attacks!,PG-13
+949,Mr. Nobody,R
+950,Ocean's Eight,PG-13
+951,Romeo + Juliet,PG-13
+952,Don Jon,R
+953,The Girl Next Door,R
+954,The Purge,R
+955,Rambo,R
+956,Old School,R
+957,Elvis,PG-13
+958,Chicago,PG-13
+959,Jason Bourne,PG-13
+960,21 Grams,R
+961,No Strings Attached,R
+962,Warm Bodies,PG-13
+963,Big,PG
+964,I Am Number Four,PG-13
+965,Ant-Man and the Wasp: Quantumania,PG-13
+966,Rush Hour 2,PG-13
+967,Misery,R
+968,The Adventures of Tintin,PG
+969,The Lone Ranger,PG-13
+970,The Great Dictator,G
+971,Sunset Boulevard,Approved
+972,Rosemary's Baby,R
+973,Fast & Furious Presents: Hobbs & Shaw,PG-13
+974,The Chronicles of Riddick,R
+975,Ghost,PG-13
+976,Prey,R
+977,The Favourite,R
+978,Munich,R
+979,Napoleon Dynamite,PG
+980,Ted 2,R
+981,Master and Commander: The Far Side of the World,PG-13
+982,The Adam Project,PG-13
+983,Role Models,R
+984,Project X,R
+985,Sleepers,R
+986,Body of Lies,R
+987,The Whale,R
+988,RoboCop,PG-13
+989,Blade II,R
+990,Closer,R
+991,Alien: Romulus,R
+992,Safe House,R
+993,Gandhi,PG
+994,The Iron Giant,PG
+995,Twister,PG-13
+996,Kiss Kiss Bang Bang,R
+997,Captain Fantastic,R
+998,A Fistful of Dollars,R
+999,Saltburn,R
+1000,White House Down,PG-13
+1001,Transcendence,PG-13
+1002,Big Daddy,PG-13
+1003,The Evil Dead,NC-17
+1004,Chef,R
+1005,The Croods,PG
+1006,Ace Ventura: When Nature Calls,PG-13
+1007,The Bridge on the River Kwai,PG
+1008,Stranger Than Fiction,PG-13
+1009,The Tomorrow War,PG-13
+1010,King Arthur: Legend of the Sword,PG-13
+1011,Remember the Titans,PG
+1012,Everest,PG-13
+1013,Rocky II,PG
+1014,Carlito's Way,R
+1015,Miss Congeniality,PG-13
+1016,Memories of Murder,Not Rated
+1017,Shakespeare in Love,R
+1018,Bolt,PG
+1019,Ip Man,R
+1020,Mad Max,R
+1021,Planet of the Apes,PG-13
+1022,You've Got Mail,PG
+1023,Cowboys & Aliens,PG-13
+1024,Rocky Balboa,PG
+1025,The Emperor's New Groove,G
+1026,The Magnificent Seven,PG-13
+1027,Clerks,R
+1028,Willy Wonka & the Chocolate Factory,G
+1029,Civil War,R
+1030,The Ugly Truth,R
+1031,Daredevil,PG-13
+1032,Pain & Gain,R
+1033,The Ides of March,R
+1034,Cars 2,G
+1035,Love & Other Drugs,R
+1036,Rocky IV,PG
+1037,Shrek Forever After,PG
+1038,Anger Management,PG-13
+1039,National Lampoon's Christmas Vacation,PG-13
+1040,Die Another Day,PG-13
+1041,Ice Age: Continental Drift,PG
+1042,Tomb Raider,PG-13
+1043,Dogma,R
+1044,Ghost in the Shell,PG-13
+1045,Erin Brockovich,R
+1046,EuroTrip,R
+1047,Match Point,R
+1048,Get Smart,PG-13
+1049,Let the Right One In,R
+1050,Ghostbusters II,PG
+1051,Enola Holmes,PG-13
+1052,Ghostbusters: Afterlife,PG-13
+1053,The Chronicles of Narnia: Prince Caspian,PG
+1054,Thank You for Smoking,R
+1055,13 Going on 30,PG-13
+1056,Coming to America,R
+1057,The Secret in Their Eyes,R
+1058,Butch Cassidy and the Sundance Kid,PG
+1059,The Flash,PG-13
+1060,2 Guns,R
+1061,Basic Instinct,R
+1062,Blue Velvet,R
+1063,Doctor Sleep,R
+1064,Darkest Hour,PG-13
+1065,What Women Want,PG-13
+1066,Revolutionary Road,R
+1067,Snow White and the Seven Dwarfs,Approved
+1068,American Reunion,R
+1069,Leave the World Behind,R
+1070,Austin Powers in Goldmember,PG-13
+1071,Planet Terror,R
+1072,Gladiator II,R
+1073,Wild Tales,R
+1074,The Secret Life of Pets,PG
+1075,Fracture,R
+1076,Straight Outta Compton,R
+1077,The Girl with the Dragon Tattoo,R
+1078,A Walk to Remember,PG
+1079,Garden State,R
+1080,Cape Fear,R
+1081,A Series of Unfortunate Events,PG
+1082,Enemy,R
+1083,Gangster Squad,R
+1084,Incendies,R
+1085,Central Intelligence,PG-13
+1086,Paths of Glory,Approved
+1087,The Black Phone,R
+1088,Who Framed Roger Rabbit,PG
+1089,Teenage Mutant Ninja Turtles,PG-13
+1090,Close Encounters of the Third Kind,PG
+1091,Jai Bhim,Approved
+1092,Lara Croft: Tomb Raider,PG-13
+1093,Traffic,R
+1094,Dangal,Not Rated
+1095,17 Again,PG-13
+1096,Lilo & Stitch,PG
+1097,Promising Young Woman,R
+1098,Drag Me to Hell,PG-13
+1099,Death Race,R
+1100,"Girl, Interrupted",R
+1101,Enchanted,PG
+1102,Beverly Hills Cop,R
+1103,The Raid: Redemption,R
+1104,The Darjeeling Limited,R
+1105,Wrath of Man,R
+1106,Alien vs. Predator,PG-13
+1107,American Wedding,R
+1108,The Hunt for Red October,PG
+1109,Jurassic World: Dominion,PG-13
+1110,The Happening,R
+1111,P.S. I Love You,PG-13
+1112,Scream 2,R
+1113,Upgrade,R
+1114,Space Jam,PG
+1115,The Crow,R
+1116,Hansel & Gretel: Witch Hunters,R
+1117,"I Love You, Man",R
+1118,The Blues Brothers,R
+1119,Transporter 2,R
+1120,Jungle Cruise,PG-13
+1121,The Internship,PG-13
+1122,Saw III,R
+1123,You Don't Mess with the Zohan,PG-13
+1124,Night at the Museum: Battle of the Smithsonian,PG
+1125,The Fall Guy,PG-13
+1126,"South Park: Bigger, Longer & Uncut",R
+1127,Tinker Tailor Soldier Spy,R
+1128,Dark City,R
+1129,A Good Day to Die Hard,R
+1130,The Age of Adaline,PG-13
+1131,Godzilla: King of the Monsters,PG-13
+1132,Rocky III,PG
+1133,American Made,R
+1134,Indiana Jones and the Dial of Destiny,PG-13
+1135,Sausage Party,R
+1136,Chicken Run,G
+1137,Barbarian,R
+1138,Oz the Great and Powerful,PG
+1139,Blue Valentine,R
+1140,G.I. Joe: The Rise of Cobra,PG-13
+1141,Waterworld,PG-13
+1142,The Meg,PG-13
+1143,X-Men: Dark Phoenix,PG-13
+1144,Air Force One,R
+1145,Knight and Day,PG-13
+1146,Carrie,R
+1147,Bad Teacher,R
+1148,The Number 23,R
+1149,Like Stars on Earth,PG
+1150,Brazil,R
+1151,Blue Jasmine,PG-13
+1152,Inside Out 2,PG
+1153,The Karate Kid,PG
+1154,Falling Down,R
+1155,The Life Aquatic with Steve Zissou,R
+1156,Secret Window,PG-13
+1157,Dracula Untold,PG-13
+1158,Resident Evil: Apocalypse,R
+1159,Robin Hood: Prince of Thieves,PG-13
+1160,Jarhead,R
+1161,Akira,R
+1162,Zombieland: Double Tap,R
+1163,Finding Neverland,PG
+1164,The World Is Not Enough,PG-13
+1165,Spaceballs,PG
+1166,The Equalizer 2,R
+1167,Assassin's Creed,PG-13
+1168,The Mummy,PG-13
+1169,The Fly,R
+1170,Atomic Blonde,R
+1171,Underworld: Evolution,R
+1172,Ready or Not,R
+1173,Unstoppable,PG-13
+1174,Smile,R
+1175,Cruel Intentions,R
+1176,The Judge,R
+1177,Legend,R
+1178,Klaus,PG
+1179,Point Break,R
+1180,Run Lola Run,R
+1181,After Earth,PG-13
+1182,The Taking of Pelham 123,R
+1183,The Hitchhiker's Guide to the Galaxy,PG
+1184,The Birds,PG-13
+1185,The Father,PG-13
+1186,Another Round,Not Rated
+1187,Stargate,PG-13
+1188,The Next Three Days,PG-13
+1189,Shame,NC-17
+1190,Harold & Kumar Go to White Castle,R
+1191,Baywatch,R
+1192,Red Sparrow,R
+1193,Hanna,PG-13
+1194,La haine,Not Rated
+1195,Sideways,R
+1196,Resident Evil: Extinction,R
+1197,Pocahontas,G
+1198,A Knight's Tale,PG-13
+1199,PK,Not Rated
+1200,The Killer,R
+1201,Taken 3,PG-13
+1202,First Man,PG-13
+1203,Tomorrow Never Dies,PG-13
+1204,The Vow,PG-13
+1205,Luca,PG
+1206,Percy Jackson & the Olympians: The Lightning Thief,PG
+1207,Goldfinger,Approved
+1208,The Man from Earth,Not Rated
+1209,Adaptation.,R
+1210,Godzilla,PG-13
+1211,The English Patient,R
+1212,The Apartment,Approved
+1213,The Seventh Seal,Not Rated
+1214,Dazed and Confused,R
+1215,What We Do in the Shadows,R
+1216,Madagascar 3: Europe's Most Wanted,PG
+1217,The Road Warrior,R
+1218,Machete,R
+1219,X,R
+1220,Frozen II,PG
+1221,Talladega Nights: The Ballad of Ricky Bobby,PG-13
+1222,REC,R
+1223,Happy Feet,PG
+1224,Chocolat,PG-13
+1225,City Lights,G
+1226,The Thin Red Line,R
+1227,The Jungle Book,Approved
+1228,Bright,TV-MA
+1229,Shark Tale,PG
+1230,Evil Dead,R
+1231,Event Horizon,R
+1232,The Girl on the Train,R
+1233,A Million Ways to Die in the West,R
+1234,6 Underground,R
+1235,Planet of the Apes,G
+1236,The Ninth Gate,R
+1237,Cinderella Man,PG-13
+1238,Valerian and the City of a Thousand Planets,PG-13
+1239,The Mask of Zorro,PG-13
+1240,Kung Fu Panda 3,PG
+1241,Terminator: Dark Fate,R
+1242,The Killing of a Sacred Deer,R
+1243,Rocketman,R
+1244,The Danish Girl,R
+1245,Desperado,R
+1246,The Longest Yard,PG-13
+1247,Puss in Boots: The Last Wish,PG
+1248,Rushmore,R
+1249,Sing,PG
+1250,Layer Cake,R
+1251,The Invisible Guest,TV-MA
+1252,Demolition Man,R
+1253,Melancholia,R
+1254,Charlie's Angels,PG-13
+1255,Army of Darkness,R
+1256,Triangle of Sadness,R
+1257,Puss in Boots,PG
+1258,The Expendables 3,PG-13
+1259,Ronin,R
+1260,The Abyss,PG-13
+1261,Side Effects,R
+1262,Tucker and Dale vs Evil,R
+1263,Death on the Nile,PG-13
+1264,The Change-Up,R
+1265,The Last King of Scotland,R
+1266,Rise of the Guardians,PG
+1267,Miss Peregrine's Home for Peculiar Children,PG-13
+1268,Battle Royale,Not Rated
+1269,Crazy Rich Asians,PG-13
+1270,The Golden Compass,PG-13
+1271,The Power of the Dog,R
+1272,The Trial of the Chicago 7,R
+1273,Swordfish,R
+1274,Isle of Dogs,PG-13
+1275,Wrath of the Titans,PG-13
+1276,Idiocracy,R
+1277,Bumblebee,PG-13
+1278,The Holdovers,R
+1279,Palm Springs,R
+1280,Sleepless in Seattle,PG
+1281,Breakfast at Tiffany's,Approved
+1282,Eagle Eye,PG-13
+1283,Jupiter Ascending,PG-13
+1284,Cinderella,PG
+1285,Hostel,R
+1286,Black Mass,R
+1287,The Assassination of Jesse James by the Coward Robert Ford,R
+1288,The Texas Chain Saw Massacre,R
+1289,Dial M for Murder,PG
+1290,This Means War,PG-13
+1291,Anchorman 2: The Legend Continues,PG-13
+1292,K-PAX,PG-13
+1293,Deep Impact,PG-13
+1294,The Last of the Mohicans,R
+1295,Molly's Game,R
+1296,Mortal Kombat,R
+1297,The Woman in Black,PG-13
+1298,Over the Hedge,PG
+1299,About a Boy,PG-13
+1300,Mama,PG-13
+1301,Superman,PG
+1302,Inferno,PG-13
+1303,Insidious: Chapter 2,PG-13
+1304,Blade: Trinity,R
+1305,Tomorrowland,PG
+1306,Mary and Max,Not Rated
+1307,In the Name of the Father,R
+1308,30 Days of Night,R
+1309,Lethal Weapon 2,R
+1310,No Hard Feelings,R
+1311,Army of the Dead,R
+1312,The Naked Gun: From the Files of Police Squad!,PG-13
+1313,The Last Duel,R
+1314,High Fidelity,R
+1315,Ralph Breaks the Internet,PG
+1316,Independence Day: Resurgence,PG-13
+1317,Mud,PG-13
+1318,Cool Hand Luke,Approved
+1319,Grindhouse,R
+1320,Metropolis,Not Rated
+1321,Rampage,PG-13
+1322,The Bank Job,R
+1323,The Bone Collector,R
+1324,The Legend of Tarzan,PG-13
+1325,Final Destination 2,R
+1326,Nomadland,R
+1327,Babylon,R
+1328,Barry Lyndon,PG
+1329,Mary Poppins,G
+1330,The Master,R
+1331,The Old Guard,R
+1332,Hot Tub Time Machine,R
+1333,The Founder,PG-13
+1334,Nosferatu,R
+1335,What Happens in Vegas,PG-13
+1336,A Man Called Otto,PG-13
+1337,Rush Hour 3,PG-13
+1338,Legends of the Fall,R
+1339,Deepwater Horizon,PG-13
+1340,Predator 2,R
+1341,The Addams Family,PG-13
+1342,Hero,PG-13
+1343,Pokémon: Detective Pikachu,PG
+1344,Castle in the Sky,PG
+1345,Unbroken,PG-13
+1346,Last Night in Soho,R
+1347,Nausicaä of the Valley of the Wind,Not Rated
+1348,Bad Boys for Life,R
+1349,xXx,PG-13
+1350,G.I. Joe: Retaliation,PG-13
+1351,The Hills Have Eyes,R
+1352,A Time to Kill,R
+1353,Pi,R
+1354,One Hundred and One Dalmatians,G
+1355,Rambo: First Blood Part II,R
+1356,Horrible Bosses 2,R
+1357,The Third Man,Approved
+1358,Evil Dead II,R
+1359,Rashomon,Not Rated
+1360,Guy Ritchie's the Covenant,R
+1361,He's Just Not That Into You,PG-13
+1362,Ed Wood,R
+1363,Get Him to the Greek,R
+1364,The League of Extraordinary Gentlemen,PG-13
+1365,The Tree of Life,PG-13
+1366,Bee Movie,PG
+1367,Wonder,PG
+1368,Poltergeist,PG
+1369,Dune,PG-13
+1370,25th Hour,R
+1371,Battle Los Angeles,PG-13
+1372,The Handmaiden,Not Rated
+1373,Searching,PG-13
+1374,The King's Man,R
+1375,The Insider,R
+1376,Dr. No,PG
+1377,The Lovely Bones,PG-13
+1378,Galaxy Quest,PG
+1379,The Waterboy,PG-13
+1380,Punch-Drunk Love,R
+1381,Matilda,PG
+1382,RED 2,PG-13
+1383,Jack Reacher: Never Go Back,PG-13
+1384,The Creator,PG-13
+1385,The Heat,R
+1386,Bicycle Thieves,Not Rated
+1387,Longlegs,R
+1388,Zack and Miri Make a Porno,R
+1389,Three Kings,R
+1390,The Cable Guy,PG-13
+1391,The Man in the Iron Mask,PG-13
+1392,She's the Man,PG-13
+1393,Lethal Weapon 3,R
+1394,Annabelle,R
+1395,The Perfect Storm,PG-13
+1396,Fantastic Beasts: The Secrets of Dumbledore,PG-13
+1397,Resident Evil: Afterlife,R
+1398,Road Trip,R
+1399,Air,R
+1400,Steve Jobs,R
+1401,Exodus: Gods and Kings,PG-13
+1402,Thelma & Louise,R
+1403,Hitman,R
+1404,Fantastic Four,PG-13
+1405,Need for Speed,PG-13
+1406,Milk,R
+1407,Surrogates,PG-13
+1408,The Day the Earth Stood Still,PG-13
+1409,Scary Movie 2,R
+1410,Riddick,R
+1411,Monsters vs. Aliens,PG
+1412,Team America: World Police,R
+1413,The Lego Batman Movie,PG
+1414,Bridge to Terabithia,PG
+1415,Talk to Me,R
+1416,Blades of Glory,PG-13
+1417,Transporter 3,PG-13
+1418,Commando,R
+1419,Anora,R
+1420,The Nun,R
+1421,27 Dresses,PG-13
+1422,Cinderella,G
+1423,Radhe,TV-MA
+1424,Raya and the Last Dragon,PG
+1425,Sonic the Hedgehog,PG
+1426,Scream 4,R
+1427,Immortals,R
+1428,Alexander,R
+1429,Coach Carter,PG-13
+1430,Johnny English,PG
+1431,The Promise,PG-13
+1432,Tombstone,R
+1433,Laal Singh Chaddha,PG-13
+1434,King Arthur,PG-13
+1435,Murder Mystery,PG-13
+1436,The Gift,R
+1437,Grown Ups 2,PG-13
+1438,Sicario: Day of the Soldado,R
+1439,Before Midnight,R
+1440,Network,R
+1441,Onward,PG
+1442,Michael Clayton,R
+1443,Halloween,R
+1444,The Virgin Suicides,R
+1445,"Definitely, Maybe",PG-13
+1446,The Last Airbender,PG
+1447,The Mechanic,R
+1448,RRR,TV-MA
+1449,The Hunchback of Notre Dame,G
+1450,CODA,PG-13
+1451,Transformers: The Last Knight,PG-13
+1452,White Chicks,PG-13
+1453,Beowulf,PG-13
+1454,The Princess and the Frog,G
+1455,Wayne's World,PG-13
+1456,Maze Runner: The Death Cure,PG-13
+1457,Kiki's Delivery Service,G
+1458,In the Mood for Love,PG
+1459,M,Passed
+1460,Lethal Weapon 4,R
+1461,A Simple Favor,R
+1462,JFK,R
+1463,The Ballad of Buster Scruggs,R
+1464,Date Night,PG-13
+1465,Flightplan,PG-13
+1466,Wonka,PG
+1467,The Punisher,R
+1468,Yesterday,PG-13
+1469,Old,PG-13
+1470,Happy Death Day,PG-13
+1471,47 Ronin,PG-13
+1472,London Has Fallen,R
+1473,The Mummy: Tomb of the Dragon Emperor,PG-13
+1474,Allied,R
+1475,Young Frankenstein,PG
+1476,A Christmas Story,PG
+1477,Pitch Perfect 2,PG-13
+1478,Nightmare Alley,R
+1479,Dirty Harry,R
+1480,The Rocky Horror Picture Show,R
+1481,One Day,PG-13
+1482,Sin City: A Dame to Kill For,R
+1483,Double Indemnity,Approved
+1484,We Need to Talk About Kevin,R
+1485,Ponyo,G
+1486,The Running Man,R
+1487,Trading Places,R
+1488,Roma,R
+1489,The Ghost Writer,PG-13
+1490,The Skin I Live In,R
+1491,Four Weddings and a Funeral,R
+1492,Letters from Iwo Jima,R
+1493,Anatomy of a Fall,R
+1494,Scream,R
+1495,Once Upon a Time in Mexico,R
+1496,Scream 3,R
+1497,The Sorcerer's Apprentice,PG
+1498,The Princess Diaries,G
+1499,Saving Mr. Banks,PG-13
+1500,Buried,R
+1501,Bad Times at the El Royale,R
+1502,Napoleon,R
+1503,Spy Game,R
+1504,Adventureland,R
+1505,The Chronicles of Narnia: The Voyage of the Dawn Treader,PG
+1506,Hard Candy,R
+1507,Marley & Me,PG
+1508,On the Waterfront,Approved
+1509,A Bronx Tale,R
+1510,Underworld: Rise of the Lycans,R
+1511,Begin Again,R
+1512,"Honey, I Shrunk the Kids",PG
+1513,The Little Mermaid,PG
+1514,13 Hours: The Secret Soldiers of Benghazi,R
+1515,F9: The Fast Saga,PG-13
+1516,Invictus,PG-13
+1517,Saw IV,R
+1518,The Maltese Falcon,Approved
+1519,Logan Lucky,PG-13
+1520,Wild Wild West,PG-13
+1521,Next,PG-13
+1522,"Planes, Trains & Automobiles",R
+1523,The Lost City,PG-13
+1524,Pixels,PG-13
+1525,Wall Street,R
+1526,The Unbearable Weight of Massive Talent,R
+1527,War Horse,PG-13
+1528,The Lost Boys,R
+1529,Godzilla Minus One,PG-13
+1530,Last Action Hero,PG-13
+1531,Vice,R
+1532,Robots,PG
+1533,Kindergarten Cop,PG-13
+1534,Awakenings,PG-13
+1535,Despicable Me 3,PG
+1536,Blue Is the Warmest Colour,NC-17
+1537,The Disaster Artist,R
+1538,House of Gucci,R
+1539,From Hell,R
+1540,Snowden,R
+1541,Hercules,PG-13
+1542,Conan the Barbarian,R
+1543,The Purge: Anarchy,R
+1544,Inside Llewyn Davis,R
+1545,The Wedding Singer,PG-13
+1546,Monster,R
+1547,Road House,R
+1548,Antz,PG
+1549,The Post,PG-13
+1550,Twisters,PG-13
+1551,The Orphanage,R
+1552,The Green Hornet,PG-13
+1553,Memoirs of a Geisha,PG-13
+1554,Sleeping Beauty,G
+1555,Pinocchio,Approved
+1556,Green Street Hooligans,R
+1557,Friday the 13th,R
+1558,The Drop,R
+1559,I Know What You Did Last Summer,R
+1560,Escape from New York,R
+1561,The Spectacular Now,R
+1562,Analyze This,R
+1563,Abraham Lincoln: Vampire Hunter,R
+1564,Ghost in the Shell,TV-MA
+1565,Don't Worry Darling,R
+1566,The King,R
+1567,Carry-On,PG-13
+1568,Underworld: Awakening,R
+1569,Turning Red,PG
+1570,Under the Skin,R
+1571,Hocus Pocus,PG
+1572,Rounders,R
+1573,Locke,R
+1574,Scary Movie 3,PG-13
+1575,The Visit,PG-13
+1576,The Parent Trap,PG
+1577,Mulan,PG-13
+1578,State of Play,PG-13
+1579,Jay and Silent Bob Strike Back,R
+1580,Dogville,R
+1581,Morbius,PG-13
+1582,Four Brothers,R
+1583,Pandorum,R
+1584,The NeverEnding Story,PG
+1585,Crimson Peak,R
+1586,Crank: High Voltage,R
+1587,How to Train Your Dragon: The Hidden World,PG
+1588,M3GAN,PG-13
+1589,Final Destination 3,R
+1590,Lost Highway,R
+1591,Extraction II,R
+1592,"Love, Rosie",R
+1593,Devil,PG-13
+1594,Hush,R
+1595,Creed II,PG-13
+1596,The Time Traveler's Wife,PG-13
+1597,Billy Madison,PG-13
+1598,Lars and the Real Girl,PG-13
+1599,Boyz n the Hood,R
+1600,The Guilty,R
+1601,The Wild Robot,PG
+1602,Seven Years in Tibet,PG-13
+1603,The Lake House,PG
+1604,Bad Santa,R
+1605,The Devil All the Time,R
+1606,Ray,PG-13
+1607,Jennifer's Body,R
+1608,My Best Friend's Wedding,PG-13
+1609,Society of the Snow,R
+1610,Dear John,PG-13
+1611,Kramer vs. Kramer,PG
+1612,Pathaan,Not Rated
+1613,Man on a Ledge,PG-13
+1614,Big Trouble in Little China,PG-13
+1615,Mr. Brooks,R
+1616,Freaky Friday,PG
+1617,Cold Mountain,R
+1618,The Mule,R
+1619,Alice in Wonderland,Approved
+1620,The Way Way Back,PG-13
+1621,Rope,Approved
+1622,Joker: Folie à Deux,R
+1623,Brothers,R
+1624,The Negotiator,R
+1625,A Fish Called Wanda,R
+1626,"Good Morning, Vietnam",R
+1627,Bambi,Approved
+1628,Borat Subsequent Moviefilm,R
+1629,Sound of Metal,R
+1630,Peter Pan,G
+1631,Remember Me,PG-13
+1632,The Hunger Games: The Ballad of Songbirds & Snakes,PG-13
+1633,Evan Almighty,PG
+1634,Coherence,Not Rated
+1635,Annabelle: Creation,R
+1636,The French Dispatch,R
+1637,Defiance,R
+1638,Fun with Dick and Jane,PG-13
+1639,I Am Sam,PG-13
+1640,K.G.F: Chapter 2,Not Rated
+1641,Blazing Saddles,R
+1642,Tremors,PG-13
+1643,Mr. Deeds,PG-13
+1644,Mad Max Beyond Thunderdome,PG-13
+1645,Rebecca,Approved
+1646,Starsky & Hutch,PG-13
+1647,I Now Pronounce You Chuck & Larry,PG-13
+1648,Shoot 'Em Up,R
+1649,Labyrinth,PG
+1650,S.W.A.T.,PG-13
+1651,The Texas Chainsaw Massacre,R
+1652,Killing Them Softly,R
+1653,Kung Fu Hustle,R
+1654,Never Let Me Go,R
+1655,The Other Woman,PG-13
+1656,Wicked,PG
+1657,Brüno,R
+1658,Good Bye Lenin!,R
+1659,The Beekeeper,R
+1660,We Bought a Zoo,PG
+1661,I Saw the Devil,Not Rated
+1662,Vantage Point,PG-13
+1663,The Imaginarium of Doctor Parnassus,PG-13
+1664,Rocky V,PG-13
+1665,Raising Arizona,PG-13
+1666,We Were Soldiers,R
+1667,Escape from Alcatraz,PG
+1668,Lady and the Tramp,G
+1669,This Is 40,R
+1670,Evil Dead Rise,R
+1671,Brooklyn,PG-13
+1672,Stuart Little,PG
+1673,Smokin' Aces,R
+1674,Tag,R
+1675,In the Heart of the Sea,PG-13
+1676,Red Eye,PG-13
+1677,Irreversible,Not Rated
+1678,Resident Evil: Retribution,R
+1679,The Count of Monte Cristo,PG-13
+1680,The Grudge,PG-13
+1681,Horton Hears a Who!,G
+1682,Challengers,R
+1683,Winter's Bone,R
+1684,Hustle,R
+1685,They Live,R
+1686,The Prince of Egypt,PG
+1687,Tower Heist,PG-13
+1688,A Serious Man,R
+1689,The Firm,R
+1690,Men in Black: International,PG-13
+1691,The Predator,R
+1692,The Bodyguard,R
+1693,Triple Frontier,R
+1694,I Care a Lot,R
+1695,The Invention of Lying,PG-13
+1696,The Great Wall,PG-13
+1697,Wallace & Gromit: The Curse of the Were-Rabbit,G
+1698,The Autopsy of Jane Doe,R
+1699,Highlander,R
+1700,9,PG-13
+1701,Roman Holiday,Approved
+1702,Margin Call,R
+1703,Love and Monsters,PG-13
+1704,Casper,PG
+1705,Foxcatcher,R
+1706,Hotel Transylvania 2,PG
+1707,The Constant Gardener,R
+1708,Carrie,R
+1709,Spring Breakers,R
+1710,Blended,PG-13
+1711,Phantom Thread,R
+1712,The Strangers,R
+1713,This Is Spinal Tap,R
+1714,Kingdom of the Planet of the Apes,PG-13
+1715,Jack the Giant Slayer,PG-13
+1716,Gifted,PG-13
+1717,Stalker,Not Rated
+1718,Into the Woods,PG
+1719,Escape Room,PG-13
+1720,Get Hard,R
+1721,The Dark Tower,PG-13
+1722,From Russia with Love,PG
+1723,Manhattan,R
+1724,Bowling for Columbine,R
+1725,Past Lives,PG-13
+1726,The Thing,R
+1727,It's Kind of a Funny Story,PG-13
+1728,Magic Mike,R
+1729,The Conjuring: The Devil Made Me Do It,R
+1730,Jeepers Creepers,R
+1731,Payback,R
+1732,A Quiet Place: Day One,PG-13
+1733,Witness for the Prosecution,Approved
+1734,Dumb and Dumber To,PG-13
+1735,Elemental,PG
+1736,Shallow Hal,PG-13
+1737,Joy,PG-13
+1738,She's Out of My League,R
+1739,The Boss Baby,PG
+1740,My Cousin Vinny,R
+1741,The Shallows,PG-13
+1742,"Dude, Where's My Car?",PG-13
+1743,Reign of Fire,PG-13
+1744,Glory,R
+1745,The Scorpion King,PG-13
+1746,John Q,PG-13
+1747,Carol,R
+1748,Lara Croft: Tomb Raider - The Cradle of Life,PG-13
+1749,My Big Fat Greek Wedding,PG
+1750,The Last Stand,R
+1751,Mortal Engines,PG-13
+1752,R.I.P.D.,PG-13
+1753,Billy Elliot,R
+1754,Green Room,R
+1755,Licorice Pizza,R
+1756,Spartacus,PG-13
+1757,Hunt for the Wilderpeople,PG-13
+1758,Hellraiser,R
+1759,The Marvels,PG-13
+1760,Along Came Polly,PG-13
+1761,Lights Out,PG-13
+1762,Deep Blue Sea,R
+1763,8MM,R
+1764,Snakes on a Plane,R
+1765,Still Alice,PG-13
+1766,The Big Sick,R
+1767,Conclave,PG
+1768,Beetlejuice Beetlejuice,PG-13
+1769,Good Time,R
+1770,Dumbo,G
+1771,Paddington,PG
+1772,Monster House,PG
+1773,"Hail, Caesar!",PG-13
+1774,King Richard,PG-13
+1775,The Rundown,PG-13
+1776,Chasing Amy,R
+1777,12th Fail,Not Rated
+1778,The Edge of Seventeen,R
+1779,Greenland,PG-13
+1780,Miller's Crossing,R
+1781,Where the Crawdads Sing,PG-13
+1782,Bill & Ted's Excellent Adventure,PG
+1783,The Monuments Men,PG-13
+1784,Strangers on a Train,PG
+1785,Johnny English Reborn,PG
+1786,Capote,R
+1787,Trainwreck,R
+1788,The Book Thief,PG-13
+1789,Green Zone,R
+1790,Night of the Living Dead,R
+1791,Rambo III,R
+1792,Oculus,R
+1793,The Recruit,PG-13
+1794,Bronson,R
+1795,The Exorcism of Emily Rose,PG-13
+1796,Baahubali: The Beginning,Not Rated
+1797,Robin Hood,G
+1798,Cliffhanger,R
+1799,All About Eve,Approved
+1800,The French Connection,R
+1801,Identity Thief,R
+1802,Anyone But You,R
+1803,Flushed Away,PG
+1804,The Hours,PG-13
+1805,The Equalizer 3,R
+1806,Harold & Kumar Escape from Guantanamo Bay,R
+1807,Nerve,PG-13
+1808,Police Academy,R
+1809,The Hunt,R
+1810,Beverly Hills Cop II,R
+1811,Ran,R
+1812,Saw V,R
+1813,Wild,R
+1814,Clerks II,R
+1815,Kubo and the Two Strings,PG
+1816,Accepted,PG-13
+1817,Twins,PG
+1818,Hairspray,PG
+1819,Night at the Museum: Secret of the Tomb,PG
+1820,Hollow Man,R
+1821,Outbreak,R
+1822,Papillon,R
+1823,Let's Be Cops,R
+1824,Den of Thieves,R
+1825,Me and Earl and the Dying Girl,PG-13
+1826,The Break-Up,PG-13
+1827,Matchstick Men,PG-13
+1828,Life as We Know It,PG-13
+1829,Gamer,R
+1830,Anastasia,G
+1831,Death Becomes Her,PG-13
+1832,Robin Hood: Men in Tights,PG-13
+1833,Doubt,PG-13
+1834,The Faculty,R
+1835,The Mortal Instruments: City of Bones,PG-13
+1836,Atlantis: The Lost Empire,PG
+1837,The Omen,R
+1838,Antichrist,Not Rated
+1839,The Kid,Passed
+1840,Man on the Moon,R
+1841,The Santa Clause,PG
+1842,Serpico,R
+1843,Allegiant,PG-13
+1844,Treasure Planet,PG
+1845,Jack Ryan: Shadow Recruit,PG-13
+1846,Aliens vs. Predator: Requiem,R
+1847,Leaving Las Vegas,R
+1848,What Lies Beneath,PG-13
+1849,Black Mirror: Bandersnatch,TV-MA
+1850,Skyscraper,PG-13
+1851,What Happened to Monday,TV-MA
+1852,The Men Who Stare at Goats,R
+1853,Pleasantville,PG-13
+1854,An Education,PG-13
+1855,House of Wax,R
+1856,Red One,PG-13
+1857,Ransom,R
+1858,Triangle,R
+1859,Evolution,PG-13
+1860,The Florida Project,R
+1861,The Campaign,R
+1862,Wrong Turn,R
+1863,The Score,R
+1864,Pearl,R
+1865,Shanghai Noon,PG-13
+1866,Last Vegas,PG-13
+1867,The Walk,PG
+1868,Babe,G
+1869,Empire of the Sun,PG
+1870,The Host,R
+1871,Bad Moms,R
+1872,Mr. Bean's Holiday,G
+1873,Killer Elite,R
+1874,Burnt,R
+1875,Daybreakers,R
+1876,Dirty Grandpa,R
+1877,The Two Popes,PG-13
+1878,"10,000 BC",PG-13
+1879,The Dreamers,NC-17
+1880,Swiss Army Man,R
+1881,Okja,TV-MA
+1882,Yojimbo,Not Rated
+1883,Scream VI,R
+1884,The Bounty Hunter,PG-13
+1885,The Treasure of the Sierra Madre,Approved
+1886,I Origins,R
+1887,T2 Trainspotting,R
+1888,Trap,PG-13
+1889,Shazam! Fury of the Gods,PG-13
+1890,Savages,R
+1891,The Lorax,PG
+1892,16 Blocks,PG-13
+1893,Eraserhead,Not Rated
+1894,Syriana,R
+1895,Booksmart,R
+1896,Charlie's Angels: Full Throttle,PG-13
+1897,Dil Bechara,Not Rated
+1898,Heretic,R
+1899,Wild Things,R
+1900,The Kids Are All Right,R
+1901,Journey to the Center of the Earth,PG
+1902,One Hour Photo,R
+1903,Persona,Not Rated
+1904,Gerald's Game,TV-MA
+1905,About Schmidt,R
+1906,Carnage,R
+1907,The 13th Warrior,R
+1908,J. Edgar,R
+1909,Homefront,R
+1910,Cars 3,G
+1911,A Christmas Carol,PG
+1912,Adipurush,Not Rated
+1913,The Raid 2,R
+1914,The Watch,R
+1915,Rebel Moon - Part One: A Child of Fire,PG-13
+1916,Nymphomaniac: Vol. I,Not Rated
+1917,Æon Flux,PG-13
+1918,Willow,PG
+1919,The Kingdom,R
+1920,Star Trek: First Contact,PG-13
+1921,Halloween,R
+1922,Infernal Affairs,R
+1923,The Ministry of Ungentlemanly Warfare,R
+1924,The Phantom of the Opera,PG-13
+1925,Daddy's Home,PG-13
+1926,Fast X,PG-13
+1927,The Mitchells vs. the Machines,PG
+1928,Tears of the Sun,R
+1929,The Little Things,R
+1930,Y tu mamá también,Not Rated
+1931,Neighbors 2: Sorority Rising,R
+1932,Tron,PG
+1933,Fahrenheit 9/11,R
+1934,Field of Dreams,PG
+1935,Knock at the Cabin,R
+1936,Scary Movie 4,PG-13
+1937,The Good Dinosaur,PG
+1938,Hall Pass,R
+1939,The Crazies,R
+1940,The Time Machine,PG-13
+1941,Safety Not Guaranteed,R
+1942,The Best Offer,R
+1943,The Zone of Interest,PG-13
+1944,The Pale Blue Eye,R
+1945,Something's Gotta Give,PG-13
+1946,Parker,R
+1947,National Lampoon's Animal House,R
+1948,Dawn of the Dead,Unrated
+1949,Home Alone 3,PG
+1950,Eragon,PG
+1951,Pacific Rim: Uprising,PG-13
+1952,Star Trek II: The Wrath of Khan,PG
+1953,Scooby-Doo,PG
+1954,The Whole Nine Yards,R
+1955,Julie & Julia,PG-13
+1956,Barton Fink,R
+1957,The Call,R
+1958,Shershaah,TV-14
+1959,To All the Boys I've Loved Before,TV-14
+1960,Final Destination 5,R
+1961,Max Payne,PG-13
+1962,This Is England,Not Rated
+1963,Australia,PG-13
+1964,Flags of Our Fathers,R
+1965,You Were Never Really Here,R
+1966,Just Friends,PG-13
+1967,Freddy vs. Jason,R
+1968,Bombshell,R
+1969,Spy Kids,PG
+1970,Mallrats,R
+1971,Sixteen Candles,PG
+1972,Thunderball,Approved
+1973,City of Angels,PG-13
+1974,The 400 Blows,Not Rated
+1975,Sense and Sensibility,PG
+1976,Asteroid City,PG-13
+1977,All the President's Men,PG
+1978,A Haunting in Venice,PG-13
+1979,Caddyshack,R
+1980,"Paris, Texas",R
+1981,The Ritual,TV-MA
+1982,Friday,R
+1983,Why Him?,R
+1984,Gods of Egypt,PG-13
+1985,Saw VI,R
+1986,The 6th Day,PG-13
+1987,Two Weeks Notice,PG-13
+1988,Exam,Not Rated
+1989,Step Up,PG-13
+1990,Downsizing,R
+1991,"Love, Simon",PG-13
+1992,Lightyear,PG
+1993,Percy Jackson: Sea of Monsters,PG
+1994,Sex and the City,R
+1995,Let Me In,R
+1996,The Conversation,PG
+1997,Sound of Freedom,PG-13
+1998,Bone Tomahawk,Not Rated
+1999,Ghost Rider: Spirit of Vengeance,PG-13
+2000,Brother Bear,G
+2001,Crimson Tide,R
+2002,If I Stay,PG-13
+2003,A Walk Among the Tombstones,R
+2004,Ghost World,R
+2005,The Life of David Gale,R
+2006,The Commuter,PG-13
+2007,8½,Not Rated
+2008,Catwoman,PG-13
+2009,Bridget Jones: The Edge of Reason,R
+2010,The Brothers Grimm,PG-13
+2011,The Jackal,R
+2012,Alice Through the Looking Glass,PG
+2013,Judge Dredd,R
+2014,Any Given Sunday,R
+2015,Out of the Furnace,R
+2016,Bicentennial Man,PG
+2017,The Giver,PG-13
+2018,Men of Honor,R
+2019,The Sum of All Fears,PG-13
+2020,An American Werewolf in London,R
+2021,Sweet Home Alabama,PG-13
+2022,The Foreigner,R
+2023,Mortal Kombat,PG-13
+2024,Contraband,R
+2025,Valentine's Day,PG-13
+2026,Charlie Wilson's War,R
+2027,The Fabelmans,PG-13
+2028,Monty Python's the Meaning of Life,R
+2029,Gemini Man,PG-13
+2030,The Nutty Professor,PG-13
+2031,Soorarai Pottru,Not Rated
+2032,Silence,R
+2033,The Skeleton Key,PG-13
+2034,Miami Vice,R
+2035,Marie Antoinette,PG-13
+2036,Instant Family,PG-13
+2037,Hamilton,PG-13
+2038,Entrapment,PG-13
+2039,The Naked Gun 2½: The Smell of Fear,PG-13
+2040,Vacation,R
+2041,Geostorm,PG-13
+2042,Rat Race,PG-13
+2043,Priest,PG-13
+2044,The Basketball Diaries,R
+2045,Serendipity,PG-13
+2046,Midnight Cowboy,R
+2047,Ride Along,PG-13
+2048,Pay It Forward,PG-13
+2049,Nebraska,R
+2050,Patch Adams,PG-13
+2051,The Family Man,PG-13
+2052,The King of Comedy,PG
+2053,The Family,R
+2054,Mr. Smith Goes to Washington,Approved
+2055,Wild Hogs,PG-13
+2056,Maleficent: Mistress of Evil,PG
+2057,The Green Knight,R
+2058,Long Shot,R
+2059,A League of Their Own,PG
+2060,Funny People,R
+2061,The Way Back,PG-13
+2062,Coyote Ugly,PG-13
+2063,West Side Story,Approved
+2064,Child's Play,R
+2065,Death at a Funeral,R
+2066,Patriot Games,R
+2067,Bonnie and Clyde,R
+2068,"tick, tick... BOOM!",PG-13
+2069,Rang De Basanti,Not Rated
+2070,National Lampoon's Vacation,R
+2071,Deliverance,R
+2072,From Paris with Love,R
+2073,Mean Streets,R
+2074,Street Kings,R
+2075,Lagaan: Once Upon a Time in India,PG
+2076,The Invitation,Not Rated
+2077,The Huntsman: Winter's War,PG-13
+2078,The Unforgivable,R
+2079,Insidious: Chapter 3,PG-13
+2080,Greyhound,PG-13
+2081,The Gold Rush,Approved
+2082,The Other Boleyn Girl,PG-13
+2083,Jacob's Ladder,R
+2084,Scrooged,PG-13
+2085,Once,R
+2086,Late Night with the Devil,R
+2087,Jingle All the Way,PG
+2088,Baahubali 2: The Conclusion,Not Rated
+2089,Little Fockers,PG-13
+2090,Maverick,PG
+2091,The Fall,R
+2092,The Name of the Rose,R
+2093,The Final Destination,R
+2094,Water for Elephants,PG-13
+2095,Heathers,R
+2096,"As Above, So Below",R
+2097,Gothika,R
+2098,The Jacket,R
+2099,Frankenweenie,PG
+2100,The Butler,PG-13
+2101,Glengarry Glen Ross,R
+2102,Demolition,R
+2103,Friday the 13th,R
+2104,Safe,R
+2105,Fences,PG-13
+2106,You Only Live Twice,PG
+2107,The 5th Wave,PG-13
+2108,Doom,R
+2109,Godzilla x Kong: The New Empire,PG-13
+2110,Fall,PG-13
+2111,Just Like Heaven,PG-13
+2112,Seeking a Friend for the End of the World,R
+2113,Eraser,R
+2114,Transformers: Rise of the Beasts,PG-13
+2115,101 Dalmatians,G
+2116,Paul Blart: Mall Cop,PG
+2117,Not Another Teen Movie,R
+2118,Driving Miss Daisy,PG
+2119,Sex Tape,R
+2120,Only God Forgives,R
+2121,Hot Shots!,PG-13
+2122,Zathura: A Space Adventure,PG
+2123,Fast Times at Ridgemont High,R
+2124,Mississippi Burning,R
+2125,Dancer in the Dark,R
+2126,Easy Rider,R
+2127,Premium Rush,PG-13
+2128,The Manchurian Candidate,R
+2129,Guillermo del Toro's Pinocchio,PG
+2130,The Host,PG-13
+2131,A Single Man,R
+2132,The Amityville Horror,R
+2133,The Spy Who Loved Me,PG
+2134,The Death of Stalin,R
+2135,Wild Strawberries,Not Rated
+2136,Born on the Fourth of July,R
+2137,Cloudy with a Chance of Meatballs 2,PG
+2138,While You Were Sleeping,PG
+2139,Crocodile Dundee,PG-13
+2140,Pompeii,PG-13
+2141,Talk to Her,R
+2142,A Scanner Darkly,R
+2143,Gran Turismo,PG-13
+2144,The Aristocats,G
+2145,Cocaine Bear,R
+2146,Little Children,R
+2147,Live and Let Die,PG
+2148,Pet Sematary,R
+2149,My Name Is Khan,PG-13
+2150,Frequency,PG-13
+2151,Trance,R
+2152,End of Days,R
+2153,Bend It Like Beckham,PG-13
+2154,Bride Wars,PG
+2155,Filth,R
+2156,A Silent Voice: The Movie,Not Rated
+2157,Hannibal Rising,R
+2158,Malena,R
+2159,Safe Haven,PG-13
+2160,Superman II,PG
+2161,Nosferatu: A Symphony of Horror,Not Rated
+2162,The Mexican,R
+2163,Tootsie,PG
+2164,Portrait of a Lady on Fire,R
+2165,Precious,Not Rated
+2166,Van Wilder,R
+2167,The Wave,Not Rated
+2168,Couples Retreat,R
+2169,The Boat That Rocked,R
+2170,In the Line of Fire,R
+2171,Do the Right Thing,R
+2172,Patriots Day,R
+2173,Diamonds Are Forever,PG
+2174,Run All Night,R
+2175,House of Flying Daggers,PG-13
+2176,Primer,PG-13
+2177,The Man Who Wasn't There,R
+2178,Cool Runnings,PG
+2179,Turbo,PG
+2180,Red Riding Hood,PG-13
+2181,The Queen,PG-13
+2182,U.S. Marshals,PG-13
+2183,Push,PG-13
+2184,Tenacious D in the Pick of Destiny,R
+2185,What Dreams May Come,PG-13
+2186,Tango & Cash,R
+2187,A Streetcar Named Desire,Approved
+2188,Angel Has Fallen,R
+2189,The Full Monty,R
+2190,The Cloverfield Paradox,PG-13
+2191,Gremlins 2: The New Batch,PG-13
+2192,Dogtooth,Not Rated
+2193,The Man with the Golden Gun,PG
+2194,Addams Family Values,PG-13
+2195,Power Rangers,PG-13
+2196,Stoker,R
+2197,Before the Devil Knows You're Dead,R
+2198,Fright Night,R
+2199,It Happened One Night,Approved
+2200,Fifty Shades Darker,R
+2201,Mirrors,R
+2202,Meet the Robinsons,G
+2203,Octopussy,PG
+2204,Enter the Dragon,R
+2205,Movie 43,R
+2206,Malignant,R
+2207,Behind Enemy Lines,PG-13
+2208,Venom: The Last Dance,PG-13
+2209,WarGames,PG
+2210,The Lucky One,PG-13
+2211,Journey 2: The Mysterious Island,PG
+2212,The Last Boy Scout,R
+2213,Anaconda,PG-13
+2214,Home,PG
+2215,Across the Universe,PG-13
+2216,Naked Gun 33 1/3: The Final Insult,PG-13
+2217,Super Troopers,R
+2218,Legion,R
+2219,Little Nicky,PG-13
+2220,Clue,PG
+2221,Licence to Kill,PG-13
+2222,The Last Emperor,PG-13
+2223,Capernaum,R
+2224,Super Size Me,PG-13
+2225,The Brothers Grimsby,R
+2226,The Warriors,R
+2227,Paycheck,PG-13
+2228,Sphere,PG-13
+2229,Bedazzled,PG-13
+2230,Mamma Mia! Here We Go Again,PG-13
+2231,Dark Waters,PG-13
+2232,The Babysitter,TV-MA
+2233,The Wolfman,R
+2234,The Iron Lady,PG-13
+2235,The Purge: Election Year,R
+2236,That's My Boy,R
+2237,Rambo: Last Blood,R
+2238,Shanghai Knights,PG-13
+2239,You're Next,R
+2240,A Cure for Wellness,R
+2241,Three Colors: Blue,R
+2242,Faster,R
+2243,Hostage,R
+2244,The Switch,PG-13
+2245,Elite Squad,R
+2246,Hit Man,R
+2247,Frost/Nixon,R
+2248,Saw 3D,R
+2249,The Craft,R
+2250,Inherent Vice,R
+2251,Uncle Buck,PG
+2252,Hitman's Wife's Bodyguard,R
+2253,Four Rooms,R
+2254,Runaway Jury,PG-13
+2255,The Three Musketeers,PG-13
+2256,Brahmastra Part One: Shiva,Not Rated
+2257,Violent Night,R
+2258,Ip Man 2,R
+2259,Bean,PG-13
+2260,Three Colors: Red,R
+2261,Leap Year,PG
+2262,Beautiful Boy,R
+2263,Rescue Dawn,PG-13
+2264,Attack the Block,R
+2265,The Peanut Butter Falcon,PG-13
+2266,Aftersun,R
+2267,ParaNorman,PG
+2268,Meet the Spartans,PG-13
+2269,High Noon,PG
+2270,Dinner for Schmucks,PG-13
+2271,Martyrs,R
+2272,Sister Act,PG
+2273,Ghost Ship,R
+2274,Get the Gringo,R
+2275,United 93,R
+2276,Brightburn,R
+2277,The Road to El Dorado,PG
+2278,Poseidon,PG-13
+2279,The Last Witch Hunter,PG-13
+2280,August Rush,PG
+2281,The Cell,R
+2282,Moonraker,PG
+2283,Repo Men,R
+2284,Paranormal Activity 2,R
+2285,Touch of Evil,PG-13
+2286,The Interpreter,PG-13
+2287,Take Shelter,R
+2288,Twin Peaks: Fire Walk with Me,R
+2289,The X Files,PG-13
+2290,Cheaper by the Dozen,PG
+2291,Lolita,Approved
+2292,Brick,R
+2293,Walking Tall,PG-13
+2294,Epic,PG
+2295,Clear and Present Danger,PG-13
+2296,For Your Eyes Only,PG
+2297,Five Nights at Freddy's,PG-13
+2298,The Diving Bell and the Butterfly,PG-13
+2299,Only Lovers Left Alive,R
+2300,Suspiria,R
+2301,The Mountain II,Not Rated
+2302,The Forbidden Kingdom,PG-13
+2303,Epic Movie,PG-13
+2304,Colombiana,PG-13
+2305,The Guest,R
+2306,Renfield,R
+2307,Come and See,Not Rated
+2308,A Nightmare on Elm Street,R
+2309,Cop Land,R
+2310,Patton,PG
+2311,The Legend of Zorro,PG
+2312,The Core,PG-13
+2313,St. Vincent,PG-13
+2314,Notorious,Approved
+2315,Overlord,R
+2316,The Secret World of Arrietty,G
+2317,Vacancy,R
+2318,The Ladykillers,R
+2319,The Good Shepherd,R
+2320,The Angry Birds Movie,PG
+2321,Conspiracy Theory,R
+2322,Hustlers,R
+2323,The Sword in the Stone,G
+2324,A Dangerous Method,R
+2325,The Worst Person in the World,R
+2326,Where the Wild Things Are,PG
+2327,eXistenZ,R
+2328,American Fiction,R
+2329,Knock Knock,R
+2330,Eat Pray Love,PG-13
+2331,Volver,R
+2332,Unleashed,R
+2333,The Gorge,PG-13
+2334,Paper Towns,PG-13
+2335,Alpha Dog,R
+2336,Bring It On,PG-13
+2337,Open Season,PG
+2338,Enola Holmes 2,PG-13
+2339,Letters to Juliet,PG
+2340,The Living Daylights,PG
+2341,Trick 'r Treat,R
+2342,Blood Simple,R
+2343,Anna Karenina,R
+2344,Music and Lyrics,PG-13
+2345,Waiting...,R
+2346,Damsel,PG-13
+2347,The Highwaymen,R
+2348,Money Monster,R
+2349,Headhunters,R
+2350,The Losers,PG-13
+2351,Mr. Popper's Penguins,PG
+2352,The Rum Diary,R
+2353,Porco Rosso,PG
+2354,That Awkward Moment,R
+2355,Dan in Real Life,PG-13
+2356,Witness,R
+2357,Never Back Down,PG-13
+2358,"Extremely Wicked, Shockingly Evil and Vile",R
+2359,Penguins of Madagascar,PG
+2360,Broken Flowers,R
+2361,Election,R
+2362,The Devil's Rejects,R
+2363,Small Soldiers,PG-13
+2364,Teenage Mutant Ninja Turtles,PG
+2365,Videodrome,R
+2366,A View to a Kill,PG
+2367,Wall Street: Money Never Sleeps,PG-13
+2368,Amour,PG-13
+2369,30 Minutes or Less,R
+2370,Andhadhun,Not Rated
+2371,Cellular,PG-13
+2372,The Sandlot,PG
+2373,Ali,R
+2374,Blue Beetle,PG-13
+2375,Elizabeth,R
+2376,The Quick and the Dead,R
+2377,Broken Arrow,R
+2378,The Counselor,R
+2379,Fantasia,G
+2380,Ambulance,R
+2381,Romancing the Stone,PG
+2382,The SpongeBob SquarePants Movie,PG
+2383,Kantara,Not Rated
+2384,The Neon Demon,R
+2385,Runaway Bride,PG
+2386,It Comes at Night,R
+2387,The Birdcage,R
+2388,Collateral Beauty,PG-13
+2389,Wild at Heart,R
+2390,Shot Caller,R
+2391,She's All That,PG-13
+2392,Gangs of Wasseypur,Not Rated
+2393,Funny Games,R
+2394,The Cider House Rules,PG-13
+2395,Perfect Blue,Not Rated
+2396,Ruby Sparks,R
+2397,Road House,R
+2398,Moonfall,PG-13
+2399,Halloween II,R
+2400,The Motorcycle Diaries,R
+2401,Widows,R
+2402,Dead Alive,R
+2403,Extremely Loud & Incredibly Close,PG-13
+2404,All About My Mother,R
+2405,The Magnificent Seven,Approved
+2406,Sahara,PG-13
+2407,Lady in the Water,PG-13
+2408,Year One,PG-13
+2409,Malcolm X,PG-13
+2410,The Fox and the Hound,G
+2411,Sonic the Hedgehog 2,PG
+2412,Your Highness,R
+2413,Rio 2,G
+2414,The Hot Chick,PG-13
+2415,The Wind Rises,PG-13
+2416,Eurovision Song Contest: The Story of Fire Saga,PG-13
+2417,Dead Man,R
+2418,Aquaman and the Lost Kingdom,PG-13
+2419,Revolver,R
+2420,Boys Don't Cry,R
+2421,The Spiderwick Chronicles,PG
+2422,Self/less,PG-13
+2423,Animal,Not Rated
+2424,Following,R
+2425,42,PG-13
+2426,Fatal Attraction,R
+2427,Philomena,PG-13
+2428,Jobs,PG-13
+2429,Hardcore Henry,R
+2430,Paddington 2,PG
+2431,The Boy,PG-13
+2432,Detachment,Not Rated
+2433,Dead Silence,R
+2434,Running Scared,R
+2435,The Hurricane,R
+2436,Drive Angry,R
+2437,Candyman,R
+2438,Holes,PG
+2439,Run,PG-13
+2440,Doctor Dolittle,PG-13
+2441,A Prophet,R
+2442,My Fair Lady,G
+2443,Chicken Little,G
+2444,Blink Twice,R
+2445,Dead Man Walking,R
+2446,I'm Thinking of Ending Things,R
+2447,Resident Evil: The Final Chapter,R
+2448,Splice,R
+2449,The DUFF,PG-13
+2450,Finch,PG-13
+2451,Sing Street,PG-13
+2452,Jawan,Not Rated
+2453,K.G.F: Chapter 1,Not Rated
+2454,The Rite,PG-13
+2455,A Good Year,PG-13
+2456,Hellboy,R
+2457,The American,R
+2458,The Last House on the Left,R
+2459,Jackass: The Movie,R
+2460,Bajrangi Bhaijaan,Not Rated
+2461,The Grapes of Wrath,Approved
+2462,Conan the Barbarian,R
+2463,Paprika,R
+2464,Secretary,R
+2465,Eddie the Eagle,PG-13
+2466,I'm Still Here,PG-13
+2467,The Karate Kid Part II,PG
+2468,The Thomas Crown Affair,R
+2469,Risky Business,R
+2470,The Outsiders,PG
+2471,The Five-Year Engagement,R
+2472,The Iron Claw,R
+2473,DragonHeart,PG-13
+2474,The Pacifier,PG
+2475,The Straight Story,G
+2476,Bedtime Stories,PG
+2477,Intolerable Cruelty,PG-13
+2478,365 Days,TV-MA
+2479,Minari,PG-13
+2480,The Doors,R
+2481,Smile 2,R
+2482,Halloween Kills,R
+2483,The Ring Two,PG-13
+2484,The Grinch,PG
+2485,On Her Majesty's Secret Service,PG
+2486,Tár,R
+2487,Chungking Express,PG-13
+2488,The People vs. Larry Flynt,R
+2489,Teenage Mutant Ninja Turtles: Out of the Shadows,PG-13
+2490,The Circle,PG-13
+2491,Fractured,TV-MA
+2492,Thirteen,R
+2493,Dante's Peak,PG-13
+2494,Underwater,PG-13
+2495,Polar,TV-MA
+2496,Land of the Dead,R
+2497,The Land Before Time,G
+2498,"Good Night, and Good Luck.",PG
+2499,I Am Mother,TV-14
+2500,Concussion,PG-13
+2501,Unfaithful,R
+2502,Persepolis,PG-13
+2503,Reptile,R
+2504,Richard Jewell,R
+2505,Spenser Confidential,R
+2506,Out of Sight,R
+2507,The Lost City of Z,PG-13
+2508,The International,R
+2509,The Game Plan,PG
+2510,The Night of the Hunter,Approved
+2511,The General,Passed
+2512,Grosse Pointe Blank,R
+2513,Big Eyes,PG-13
+2514,Another Earth,PG-13
+2515,Lockout,PG-13
+2516,Anna,R
+2517,The Great Beauty,Not Rated
+2518,Flipped,PG
+2519,Paranormal Activity 3,R
+2520,American Graffiti,PG
+2521,Eden Lake,R
+2522,White Men Can't Jump,R
+2523,The Best Exotic Marigold Hotel,PG-13
+2524,Elektra,PG-13
+2525,The Killing,Approved
+2526,Sling Blade,R
+2527,Weird Science,PG-13
+2528,Solaris,PG
+2529,Pet Sematary,R
+2530,West Side Story,PG-13
+2531,I Love You Phillip Morris,R
+2532,Edge of Darkness,R
+2533,Swades,Not Rated
+2534,"Synecdoche, New York",R
+2535,Fear Street: Part One - 1994,R
+2536,October Sky,PG
+2537,Tommy Boy,PG-13
+2538,Reign Over Me,R
+2539,Hostiles,R
+2540,Moana 2,PG
+2541,Project Power,R
+2542,Nymphomaniac: Vol. II,Not Rated
+2543,The Guardian,PG-13
+2544,My Sister's Keeper,PG-13
+2545,The Color Purple,PG-13
+2546,It's Complicated,R
+2547,Drishyam,Not Rated
+2548,Rebel Without a Cause,PG-13
+2549,Madame Web,PG-13
+2550,Season of the Witch,PG-13
+2551,Hot Shots! Part Deux,PG-13
+2552,Ghost Dog: The Way of the Samurai,R
+2553,Elephant,R
+2554,The Smurfs,PG
+2555,Never Been Kissed,PG-13
+2556,Amsterdam,R
+2557,Midway,PG-13
+2558,Mickey 17,R
+2559,The Pelican Brief,PG-13
+2560,The Girl Who Played with Fire,R
+2561,The Searchers,Approved
+2562,Operation Fortune: Ruse de Guerre,R
+2563,Creed III,PG-13
+2564,Bad Boys: Ride or Die,R
+2565,Monsters,R
+2566,Double Jeopardy,R
+2567,Days of Thunder,PG-13
+2568,3 Days to Kill,PG-13
+2569,65,PG-13
+2570,Practical Magic,PG-13
+2571,Babylon A.D.,PG-13
+2572,Angel Heart,R
+2573,Suspiria,R
+2574,Piranha 3D,R
+2575,xXx: Return of Xander Cage,PG-13
+2576,Star Trek: The Motion Picture,G
+2577,The Wicker Man,R
+2578,Alvin and the Chipmunks,PG
+2579,Jackass Presents: Bad Grandpa,R
+2580,Maid in Manhattan,PG-13
+2581,The House That Jack Built,R
+2582,Say Anything,PG-13
+2583,Hostel: Part II,R
+2584,War,R
+2585,Along Came a Spider,R
+2586,Midnight Run,R
+2587,Universal Soldier,R
+2588,Hitman: Agent 47,R
+2589,The Frighteners,R
+2590,The Muppets,PG
+2591,Under Siege,R
+2592,The Guard,R
+2593,Goosebumps,PG
+2594,Crawl,R
+2595,Submarine,R
+2596,Taking Lives,R
+2597,The Kissing Booth,TV-14
+2598,Bloodsport,R
+2599,News of the World,PG-13
+2600,Frida,R
+2601,Frances Ha,R
+2602,Dreamcatcher,R
+2603,Pig,R
+2604,American Ultra,R
+2605,The Piano,R
+2606,Mechanic: Resurrection,R
+2607,The Heartbreak Kid,R
+2608,Gosford Park,R
+2609,I Spit on Your Grave,R
+2610,Killers,PG-13
+2611,Minions: The Rise of Gru,PG
+2612,The Painted Veil,PG-13
+2613,Mary Poppins Returns,PG
+2614,Jigsaw,R
+2615,Nacho Libre,PG
+2616,Mike and Dave Need Wedding Dates,R
+2617,The One,PG-13
+2618,Ali G Indahouse,R
+2619,Footloose,PG
+2620,Speak No Evil,R
+2621,Sky High,PG
+2622,Last Christmas,PG-13
+2623,Belfast,PG-13
+2624,The Experiment,R
+2625,A Cinderella Story,PG
+2626,Fallen,R
+2627,The Room,R
+2628,Garfield: The Movie,PG
+2629,Iron Sky,R
+2630,Unthinkable,R
+2631,Selma,PG-13
+2632,August: Osage County,R
+2633,The Celebration,R
+2634,Thir13en Ghosts,R
+2635,Beverly Hills Cop III,R
+2636,Around the World in 80 Days,PG
+2637,Flubber,PG
+2638,Christine,R
+2639,Hereafter,PG-13
+2640,My Father and My Son,Not Rated
+2641,House of 1000 Corpses,R
+2642,Ghosts of Girlfriends Past,PG-13
+2643,Here Comes the Boom,PG
+2644,Sadak 2,Not Rated
+2645,The Color of Money,R
+2646,Juror #2,PG-13
+2647,How to Be Single,R
+2648,Sweet November,PG-13
+2649,Good Luck Chuck,R
+2650,The Box,PG-13
+2651,Crazy Heart,R
+2652,Abigail,R
+2653,Pushpa: The Rise - Part 1,Not Rated
+2654,Trolls,PG
+2655,12 Strong,R
+2656,RoboCop 2,R
+2657,The Dead Don't Die,R
+2658,A Monster Calls,PG-13
+2659,The BFG,PG
+2660,Surf's Up,PG
+2661,Nick and Norah's Infinite Playlist,PG-13
+2662,Biutiful,R
+2663,Disaster Movie,PG-13
+2664,Burlesque,PG-13
+2665,Tetris,R
+2666,Monster's Ball,Not Rated
+2667,No Escape,R
+2668,Hot Rod,PG-13
+2669,American Assassin,R
+2670,The New Mutants,PG-13
+2671,Flatliners,R
+2672,Ikiru,Not Rated
+2673,Captain America: Brave New World,PG-13
+2674,The Pope's Exorcist,R
+2675,Beginners,R
+2676,Case 39,R
+2677,Going in Style,PG-13
+2678,Mona Lisa Smile,PG-13
+2679,The Pink Panther,PG
+2680,Jane Eyre,PG-13
+2681,Be Kind Rewind,PG-13
+2682,Frailty,R
+2683,Sing 2,PG
+2684,The X Files: I Want to Believe,PG-13
+2685,A Perfect Murder,R
+2686,Mandy,Not Rated
+2687,A Nightmare on Elm Street 3: Dream Warriors,R
+2688,We Own the Night,R
+2689,Sisu,R
+2690,Day Shift,R
+2691,Cocktail,R
+2692,Judas and the Black Messiah,R
+2693,Audition,R
+2694,Arlington Road,R
+2695,The Last Song,PG
+2696,Snitch,PG-13
+2697,The Boy and the Heron,PG-13
+2698,Kiss the Girls,R
+2699,The Bling Ring,R
+2700,All the Money in the World,R
+2701,Eye in the Sky,R
+2702,Star Trek IV: The Voyage Home,PG
+2703,Sex Drive,R
+2704,Blitz,R
+2705,Righteous Kill,R
+2706,Half Nelson,R
+2707,The Fisher King,R
+2708,Stuck in Love.,R
+2709,Confessions of a Dangerous Mind,R
+2710,Army of Thieves,TV-MA
+2711,Kingpin,PG-13
+2712,Short Term 12,R
+2713,King Kong,Approved
+2714,Get Shorty,R
+2715,Ghostbusters: Frozen Empire,PG-13
+2716,Mirror Mirror,PG
+2717,Skyline,PG-13
+2718,Raw,R
+2719,Big Momma's House,PG-13
+2720,The Princess Diaries 2: Royal Engagement,G
+2721,Death Note,TV-MA
+2722,The Big Sleep,Approved
+2723,Jack and Jill,PG
+2724,My Girl,PG
+2725,Harry Brown,R
+2726,Annabelle Comes Home,R
+2727,Cashback,R
+2728,The Wild Bunch,R
+2729,The House Bunny,PG-13
+2730,Step Up 2: The Streets,PG-13
+2731,The Squid and the Whale,R
+2732,The Bridges of Madison County,PG-13
+2733,Shaolin Soccer,PG-13
+2734,Taxi,Not Rated
+2735,Goon,R
+2736,Argylle,PG-13
+2737,The Human Centipede (First Sequence),R
+2738,La Vie En Rose,PG-13
+2739,Hotel Transylvania 3: Summer Vacation,PG
+2740,Pretty in Pink,PG-13
+2741,Delicatessen,R
+2742,Meg 2: The Trench,PG-13
+2743,Beautiful Creatures,PG-13
+2744,To Rome with Love,R
+2745,Paterson,R
+2746,Plane,R
+2747,The New World,PG-13
+2748,The Social Dilemma,PG-13
+2749,This Is Where I Leave You,R
+2750,Slither,R
+2751,The Midnight Sky,PG-13
+2752,Munna Bhai M.B.B.S.,Not Rated
+2753,Kate & Leopold,PG-13
+2754,Our Idiot Brother,R
+2755,The Longest Ride,PG-13
+2756,A Beautiful Day in the Neighborhood,PG
+2757,Sorry to Bother You,R
+2758,Office Christmas Party,R
+2759,Cop Out,R
+2760,Finding Forrester,PG-13
+2761,New Year's Eve,PG-13
+2762,Haywire,R
+2763,Monkey Man,R
+2764,Blue Streak,PG-13
+2765,Enter the Void,Not Rated
+2766,Shoplifters,R
+2767,Failure to Launch,PG-13
+2768,Papillon,R
+2769,Analyze That,R
+2770,Judgment at Nuremberg,Approved
+2771,Midnight Express,R
+2772,Saturday Night Fever,R
+2773,Happy Death Day 2U,PG-13
+2774,Breathless,Not Rated
+2775,The Tuxedo,PG-13
+2776,Wag the Dog,R
+2777,Grandma's Boy,R
+2778,Hide and Seek,R
+2779,Backdraft,R
+2780,The Cat in the Hat,PG
+2781,Five Feet Apart,PG-13
+2782,My Week with Marilyn,R
+2783,Fighting with My Family,PG-13
+2784,Spanglish,PG-13
+2785,Stir of Echoes,R
+2786,Dope,R
+2787,A Perfect World,PG-13
+2788,The Wailing,TV-MA
+2789,Swingers,R
+2790,Little Shop of Horrors,PG-13
+2791,John Tucker Must Die,PG-13
+2792,Farha,TV-14
+2793,Krampus,PG-13
+2794,G.I. Jane,R
+2795,Assassins,R
+2796,Zindagi Na Milegi Dobara,Not Rated
+2797,Wayne's World 2,PG-13
+2798,Spirit: Stallion of the Cimarron,G
+2799,Horns,R
+2800,Mile 22,R
+2801,The Wedding Planner,PG-13
+2802,Funny Games,Not Rated
+2803,Barfi!,Not Rated
+2804,U-571,PG-13
+2805,What's Your Number?,R
+2806,Snake Eyes,R
+2807,Legend of the Guardians: The Owls of Ga'Hoole,PG
+2808,World Trade Center,PG-13
+2809,Charade,Approved
+2810,Stay,R
+2811,48 Hrs.,R
+2812,The Hundred-Foot Journey,PG
+2813,Elite Squad 2: The Enemy Within,Not Rated
+2814,Out of Africa,PG
+2815,The Raven,R
+2816,Blockers,R
+2817,The Flintstones,PG
+2818,Young Adult,R
+2819,A Real Pain,R
+2820,Star Trek: Generations,PG
+2821,Scoop,PG-13
+2822,Lady Vengeance,R
+2823,Saw X,R
+2824,Scary Stories to Tell in the Dark,PG-13
+2825,The Long Kiss Goodnight,R
+2826,Beasts of No Nation,TV-MA
+2827,Freedom Writers,PG-13
+2828,The Christmas Chronicles,PG
+2829,The Inbetweeners,R
+2830,The Duchess,PG-13
+2831,"Spring, Summer, Fall, Winter... and Spring",R
+2832,The Hustler,Approved
+2833,Sky Captain and the World of Tomorrow,PG
+2834,Look Who's Talking,PG-13
+2835,Species,R
+2836,Space Cowboys,PG-13
+2837,Deliver Us from Evil,R
+2838,Nanny McPhee,PG
+2839,The Remains of the Day,PG
+2840,Star Trek III: The Search for Spock,PG
+2841,Three Amigos!,PG
+2842,Bloodshot,PG-13
+2843,Kids,NC-17
+2844,Four Lions,R
+2845,Speed 2: Cruise Control,PG-13
+2846,Daddy's Home 2,PG-13
+2847,After Hours,R
+2848,Centurion,R
+2849,Fruitvale Station,R
+2850,The Hudsucker Proxy,PG
+2851,Rebel Ridge,TV-MA
+2852,Emilia Pérez,R
+2853,Bridget Jones's Baby,R
+2854,The Day the Earth Stood Still,G
+2855,Christopher Robin,PG
+2856,Conan the Destroyer,PG
+2857,Caché,R
+2858,Jaws 2,PG
+2859,Father of the Bride,PG
+2860,Semi-Pro,R
+2861,Pink Floyd: The Wall,R
+2862,Solaris,PG-13
+2863,The Fog,R
+2864,The Ruins,R
+2865,The Last Castle,R
+2866,The Uninvited,PG-13
+2867,Fried Green Tomatoes,PG-13
+2868,Hidalgo,PG-13
+2869,In the Heat of the Night,Approved
+2870,Notes on a Scandal,R
+2871,Johnny English Strikes Again,PG
+2872,The Mothman Prophecies,PG-13
+2873,Chak De! India,Not Rated
+2874,The 'Burbs,PG
+2875,George of the Jungle,PG
+2876,Fool's Gold,PG-13
+2877,The Sea Inside,PG-13
+2878,Before I Go to Sleep,R
+2879,The African Queen,PG
+2880,The Woman in the Window,R
+2881,Manhunter,R
+2882,The Night Before,R
+2883,The Rainmaker,PG-13
+2884,Sex and the City 2,R
+2885,Phenomenon,PG
+2886,Master,Not Rated
+2887,Cabin Fever,R
+2888,Felon,R
+2889,Trumbo,R
+2890,Project Almanac,PG-13
+2891,Splash,PG
+2892,An Inconvenient Truth,PG
+2893,Youth,R
+2894,The Mountain Between Us,PG-13
+2895,The Kings of Summer,R
+2896,Free Willy,PG
+2897,Beasts of the Southern Wild,PG-13
+2898,Star Trek: Nemesis,PG-13
+2899,Miss Sloane,R
+2900,The Dig,PG-13
+2901,Bottle Rocket,R
+2902,Killer Joe,NC-17
+2903,"You, Me and Dupree",PG-13
+2904,Six Days Seven Nights,PG-13
+2905,The Man Who Shot Liberty Valance,Approved
+2906,Midnight Special,PG-13
+2907,Dumbo,PG
+2908,The Invasion,PG-13
+2909,Good Boys,R
+2910,Confessions of a Shopaholic,PG
+2911,The Good Nurse,R
+2912,Children of Heaven,PG
+2913,All Is Lost,PG-13
+2914,Morning Glory,PG-13
+2915,Jackie,R
+2916,Halloween H20: 20 Years Later,R
+2917,Ultraviolet,PG-13
+2918,Mank,R
+2919,Super,R
+2920,Amistad,R
+2921,Climax,R
+2922,Final Fantasy: The Spirits Within,PG-13
+2923,Fresh,R
+2924,The Spy Who Dumped Me,R
+2925,"I, Frankenstein",PG-13
+2926,It Ends with Us,PG-13
+2927,Four Christmases,PG-13
+2928,Broken City,R
+2929,Eighth Grade,R
+2930,The Weather Man,R
+2931,Outlaw King,R
+2932,Abduction,PG-13
+2933,Unfriended,R
+2934,Volcano,PG-13
+2935,Boss Level,TV-MA
+2936,Battlefield Earth,PG-13
+2937,Dream Scenario,R
+2938,Doctor Zhivago,Approved
+2939,Frozen,R
+2940,Entourage,R
+2941,Delivery Man,PG-13
+2942,The Fourth Kind,PG-13
+2943,Girl with a Pearl Earring,PG-13
+2944,Fright Night,R
+2945,A Wednesday,Not Rated
+2946,Machete Kills,R
+2947,Holidate,TV-MA
+2948,Harold and Maude,PG
+2949,Inkheart,PG
+2950,The Kite Runner,PG-13
+2951,Ever After: A Cinderella Story,PG-13
+2952,A Ghost Story,R
+2953,In the Mouth of Madness,R
+2954,Space Jam: A New Legacy,PG
+2955,Bodies Bodies Bodies,R
+2956,Underworld: Blood Wars,R
+2957,1984,R
+2958,Frank,R
+2959,To Catch a Thief,PG
+2960,Norbit,PG-13
+2961,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,TV-MA
+2962,Frankenstein,Approved
+2963,Robin Hood,PG-13
+2964,Premonition,PG-13
+2965,Unhinged,R
+2966,The Dukes of Hazzard,PG-13
+2967,Awake,R
+2968,Escape from L.A.,R
+2969,Café Society,PG-13
+2970,Assault on Precinct 13,R
+2971,What If,PG-13
+2972,The Words,PG-13
+2973,House at the End of the Street,PG-13
+2974,Only the Brave,PG-13
+2975,The Outlaw Josey Wales,PG
+2976,Rock of Ages,PG-13
+2977,Star Trek VI: The Undiscovered Country,PG
+2978,Bill & Ted's Bogus Journey,PG
+2979,A Dog's Purpose,PG
+2980,Terrifier,Unrated
+2981,Bad Lieutenant: Port of Call New Orleans,R
+2982,The Fundamentals of Caring,TV-MA
+2983,Shaft,R
+2984,Dragonball Evolution,PG
+2985,Blue Ruin,R
+2986,Oldboy,R
+2987,Three Colors: White,R
+2988,Charlie's Angels,PG-13
+2989,Fear Street: Part Two - 1978,R
+2990,Mid90s,R
+2991,Stripes,R
+2992,The Infiltrator,R
+2993,Peter Pan,PG
+2994,Cobra,R
+2995,The Haunting,PG-13
+2996,A Most Wanted Man,R
+2997,The Wedding Ringer,R
+2998,The Manchurian Candidate,PG-13
+2999,Dirty Rotten Scoundrels,PG
+3000,Vivarium,R
+3001,Deuce Bigalow: Male Gigolo,R
+3002,Friday the 13th Part 2,R
+3003,Miss Congeniality 2: Armed & Fabulous,PG-13
+3004,My Left Foot,R
+3005,Gridiron Gang,PG-13
+3006,La Dolce Vita,Not Rated
+3007,Wolfs,R
+3008,Who's Afraid of Virginia Woolf?,Approved
+3009,Red Dawn,PG-13
+3010,The Edge,R
+3011,Indecent Proposal,R
+3012,Dark Skies,PG-13
+3013,Black Book,R
+3014,Dara of Jasenovac,R
+3015,Seventh Son,PG-13
+3016,Wanderlust,R
+3017,The Iceman,R
+3018,Perfect Days,PG
+3019,Cold Pursuit,R
+3020,A Nightmare on Elm Street 2: Freddy's Revenge,R
+3021,Ringu,Not Rated
+3022,I Still Know What You Did Last Summer,R
+3023,Into the Blue,PG-13
+3024,The Dirty Dozen,Approved
+3025,Wolf Creek,R
+3026,Free Solo,PG-13
+3027,Jackass Number Two,R
+3028,[Rec]²,R
+3029,Companion,R
+3030,Troll Hunter,PG-13
+3031,Dunki,Not Rated
+3032,Burning,Not Rated
+3033,Doomsday,R
+3034,Star Trek: Insurrection,PG
+3035,The Postman,R
+3036,Open Range,R
+3037,No Reservations,PG
+3038,Strange Days,R
+3039,Badlands,PG
+3040,Beverly Hills Cop: Axel F,R
+3041,Inside Job,PG-13
+3042,Mr. Peabody & Sherman,PG
+3043,Beastly,PG-13
+3044,The Book of Life,PG
+3045,The Witches of Eastwick,R
+3046,The Outfit,R
+3047,Hitchcock,PG-13
+3048,The Lego Movie 2: The Second Part,PG
+3049,The Dead Zone,R
+3050,First Knight,PG-13
+3051,The Ten Commandments,G
+3052,Wings of Desire,PG-13
+3053,Speed Racer,PG
+3054,Ice Age: Collision Course,PG
+3055,Vikram,Not Rated
+3056,Senna,PG-13
+3057,High Tension,R
+3058,Quarantine,R
+3059,The Siege,R
+3060,The Square,R
+3061,Being There,PG
+3062,Sooryavanshi,TV-14
+3063,Mysterious Skin,Unrated
+3064,The Blue Lagoon,R
+3065,Chloe,R
+3066,Brawl in Cell Block 99,Not Rated
+3067,M*A*S*H,R
+3068,Outlander,R
+3069,Just Mercy,PG-13
+3070,Scary Movie V,PG-13
+3071,Fearless,PG-13
+3072,Dilwale Dulhania Le Jayenge,Not Rated
+3073,The Thirteenth Floor,R
+3074,A Most Violent Year,R
+3075,The Family Stone,PG-13
+3076,Ong-Bak: The Thai Warrior,R
+3077,Triple 9,R
+3078,Spencer,R
+3079,Redemption,R
+3080,The White Ribbon,R
+3081,Superhero Movie,PG-13
+3082,A Simple Plan,R
+3083,Major League,R
+3084,Candyman,R
+3085,Mercury Rising,R
+3086,The King of Staten Island,R
+3087,The Water Diviner,R
+3088,The Texas Chainsaw Massacre: The Beginning,R
+3089,88 Minutes,R
+3090,Collateral Damage,R
+3091,The Best of Me,PG-13
+3092,Ghost Town,PG-13
+3093,Walk Hard: The Dewey Cox Story,R
+3094,Death Wish,R
+3095,The Woman King,PG-13
+3096,Disconnect,R
+3097,Harakiri,Not Rated
+3098,La Femme Nikita,R
+3099,Hannah and Her Sisters,PG-13
+3100,Zoolander 2,PG-13
+3101,Joy Ride,R
+3102,Daylight,PG-13
+3103,Dreamgirls,PG-13
+3104,Bringing Out the Dead,R
+3105,Ouija: Origin of Evil,PG-13
+3106,Beethoven,PG
+3107,Red Heat,R
+3108,Solomon Kane,R
+3109,The Brutalist,R
+3110,DC League of Super-Pets,PG
+3111,Bullitt,M/PG
+3112,Fifty Shades Freed,R
+3113,Turner & Hooch,PG
+3114,Mortdecai,R
+3115,Coming 2 America,PG-13
+3116,Johnny Mnemonic,R
+3117,The Lost Daughter,R
+3118,The Courier,PG-13
+3119,The Black Dahlia,R
+3120,21 & Over,R
+3121,Seabiscuit,PG-13
+3122,Arachnophobia,PG-13
+3123,A Perfect Getaway,R
+3124,Kal Ho Naa Ho,Not Rated
+3125,Whisper of the Heart,G
+3126,21 Bridges,R
+3127,Showgirls,NC-17
+3128,Halloween Ends,R
+3129,Hackers,PG-13
+3130,Whatever Works,PG-13
+3131,Ella Enchanted,PG
+3132,Mission to Mars,PG
+3133,Made of Honor,PG-13
+3134,Sympathy for Mr. Vengeance,R
+3135,The Gift,R
+3136,The Man from Nowhere,R
+3137,Top Secret!,PG
+3138,Derailed,R
+3139,Dil Chahta Hai,Not Rated
+3140,Ticket to Paradise,PG-13
+3141,Child 44,R
+3142,Sicko,PG-13
+3143,Street Fighter,PG-13
+3144,Hunter Killer,R
+3145,Superman III,PG
+3146,Go,R
+3147,Ninja Assassin,R
+3148,Freaky,R
+3149,Don't Breathe 2,R
+3150,Dangerous Liaisons,R
+3151,Land of the Lost,PG-13
+3152,Bhool Bhulaiyaa 3,Not Rated
+3153,Europa Report,PG-13
+3154,Invincible,PG
+3155,Stepmom,PG-13
+3156,Youth in Revolt,R
+3157,40 Days and 40 Nights,R
+3158,Happiness,NC-17
+3159,Anomalisa,R
+3160,Day of the Dead,Not Rated
+3161,The Net,PG-13
+3162,What to Expect When You're Expecting,PG-13
+3163,The Incredible Burt Wonderstone,PG-13
+3164,Bewitched,PG-13
+3165,A Very Long Engagement,R
+3166,Arsenic and Old Lace,Approved
+3167,Elizabeth: The Golden Age,PG-13
+3168,The Client,PG-13
+3169,Richie Rich,PG
+3170,Murder Mystery 2,PG-13
+3171,What About Bob?,PG
+3172,Justin Bieber: Never Say Never,G
+3173,The Chaser,Not Rated
+3174,Changing Lanes,R
+3175,James and the Giant Peach,PG
+3176,In the Valley of Elah,R
+3177,The Muppet Christmas Carol,G
+3178,Spy Kids 2: Island of Lost Dreams,PG
+3179,Daddy Day Care,PG
+3180,Star Wars: The Clone Wars,PG
+3181,Death Sentence,R
+3182,Mother,R
+3183,Blindness,R
+3184,The Philadelphia Story,Approved
+3185,The Collector,R
+3186,Just Married,PG-13
+3187,Lost in Space,PG-13
+3188,That Thing You Do!,PG
+3189,Bowfinger,PG-13
+3190,A Serbian Film,NC-17
+3191,Those Who Wish Me Dead,R
+3192,The Girl Who Kicked the Hornet's Nest,R
+3193,The Eagle,PG-13
+3194,The Body,Not Rated
+3195,The Piano Teacher,R
+3196,Hera Pheri,Not Rated
+3197,Legend,PG
+3198,Aloha,PG-13
+3199,Gulliver's Travels,PG
+3200,Insidious: The Last Key,PG-13
+3201,Invasion of the Body Snatchers,PG
+3202,Uri: The Surgical Strike,Not Rated
+3203,"Legally Blonde 2: Red, White & Blonde",PG-13
+3204,Creep,R
+3205,The Gambler,R
+3206,The Tinder Swindler,TV-MA
+3207,District B13,R
+3208,"Paris, Je T'aime",R
+3209,The Station Agent,R
+3210,Hotel Mumbai,R
+3211,The Emoji Movie,PG
+3212,Blonde,NC-17
+3213,Windtalkers,R
+3214,Romeo Must Die,R
+3215,Isn't It Romantic,PG-13
+3216,Quiz Show,PG-13
+3217,Two Night Stand,R
+3218,Sunshine Cleaning,R
+3219,The Saint,PG-13
+3220,The Snowman,R
+3221,The First Purge,R
+3222,Never Say Never Again,PG
+3223,Open Your Eyes,R
+3224,Hunger,Not Rated
+3225,Sita Ramam,Not Rated
+3226,xXx: State of the Union,PG-13
+3227,Salaar,Not Rated
+3228,1922,TV-MA
+3229,Junior,PG-13
+3230,Anatomy of a Murder,Approved
+3231,Upside Down,PG-13
+3232,Pitch Perfect 3,PG-13
+3233,Singham Again,Not Rated
+3234,Urban Legend,R
+3235,Blackfish,PG-13
+3236,Re-Animator,Unrated
+3237,The First Time,PG-13
+3238,Searching for Sugar Man,PG-13
+3239,Agora,R
+3240,Stigmata,R
+3241,The Kerala Story,Not Rated
+3242,Coolie No. 1,Not Rated
+3243,Perfect Strangers,Not Rated
+3244,Bhaag Milkha Bhaag,Not Rated
+3245,The Devil's Own,R
+3246,Spawn,PG-13
+3247,The Dark Crystal,PG
+3248,House of Sand and Fog,R
+3249,True Story,R
+3250,Reis,Not Rated
+3251,Brotherhood of the Wolf,R
+3252,Blast from the Past,PG-13
+3253,Dolittle,PG
+3254,Kick,Not Rated
+3255,The Best Years of Our Lives,Approved
+3256,The Mighty Ducks,PG
+3257,Elizabethtown,PG-13
+3258,The Harder They Fall,R
+3259,A Complete Unknown,R
+3260,A Very Harold & Kumar Christmas,R
+3261,No One Will Save You,PG-13
+3262,Guns Akimbo,R
+3263,The Bandit,Not Rated
+3264,National Lampoon's European Vacation,PG-13
+3265,Kate,R
+3266,Larry Crowne,PG-13
+3267,Breaking the Waves,R
+3268,The Secret Life of Pets 2,PG
+3269,Moonstruck,PG
+3270,The Farewell,PG
+3271,Be Cool,PG-13
+3272,The Sitter,R
+3273,Tokyo Story,Not Rated
+3274,Jeepers Creepers 2,R
+3275,The Midnight Meat Train,R
+3276,The Sisters Brothers,R
+3277,Love Me If You Dare,R
+3278,Sliding Doors,PG-13
+3279,Peppermint,R
+3280,Thirteen Lives,PG-13
+3281,The Cabinet of Dr. Caligari,Not Rated
+3282,The City of Lost Children,R
+3283,The Return of the Living Dead,R
+3284,The Wicker Man,PG-13
+3285,The Girl Who Leapt Through Time,TV-PG
+3286,Criminal,R
+3287,Flow,PG
+3288,Men,R
+3289,Into the Storm,PG-13
+3290,El Mariachi,R
+3291,God Bless America,R
+3292,Sabrina,Approved
+3293,The Karate Kid Part III,PG
+3294,The Devil's Backbone,R
+3295,The Idea of You,R
+3296,Act of Valor,R
+3297,Shadow of a Doubt,PG
+3298,Soylent Green,PG
+3299,Teenage Mutant Ninja Turtles: Mutant Mayhem,PG
+3300,Spiral,R
+3301,The Pledge,R
+3302,The Debt,R
+3303,Elle,R
+3304,The Night House,R
+3305,Jersey Girl,PG-13
+3306,The Finest Hours,PG-13
+3307,Bandits,PG-13
+3308,Marathon Man,R
+3309,Sexy Beast,R
+3310,The Rescuers,G
+3311,Beerfest,R
+3312,Darkman,R
+3313,Terrifier 2,Not Rated
+3314,The Man Who Knew Too Much,PG
+3315,Cell 211,Not Rated
+3316,V/H/S,R
+3317,Mystery Men,PG-13
+3318,A Lot Like Love,PG-13
+3319,Ghosted,PG-13
+3320,Drive My Car,Unrated
+3321,Magic in the Moonlight,PG-13
+3322,Paranormal Activity 4,R
+3323,The Replacements,PG-13
+3324,Murder on the Orient Express,PG
+3325,The Stepford Wives,PG-13
+3326,The November Man,R
+3327,Solace,R
+3328,A Man Called Ove,PG-13
+3329,Rust and Bone,R
+3330,Cube²: Hypercube,R
+3331,Overboard,PG
+3332,Dead Snow,Not Rated
+3333,Gold,R
+3334,M.S. Dhoni: The Untold Story,Not Rated
+3335,Timecrimes,R
+3336,Time Bandits,PG
+3337,The Specialist,R
+3338,Monster Hunter,PG-13
+3339,The Science of Sleep,R
+3340,Sisters,R
+3341,Rudy,PG
+3342,How to Lose Friends & Alienate People,R
+3343,City of Ember,PG
+3344,Colossal,R
+3345,Whip It,PG-13
+3346,Diabolique,Not Rated
+3347,The Legend of 1900,R
+3348,Beau Is Afraid,R
+3349,After,PG-13
+3350,The Messenger: The Story of Joan of Arc,R
+3351,A Tale of Two Sisters,R
+3352,Dead Man Down,R
+3353,Cocoon,PG-13
+3354,I See You,R
+3355,The Signal,PG-13
+3356,Popstar: Never Stop Never Stopping,R
+3357,The Age of Innocence,PG
+3358,Rio Bravo,Approved
+3359,Thanksgiving,R
+3360,Love,TV-MA
+3361,TMNT,PG
+3362,Young Guns,R
+3363,The Battle of Algiers,Not Rated
+3364,The Frozen Ground,R
+3365,Keeping Up with the Joneses,PG-13
+3366,Run Fatboy Run,PG-13
+3367,The Awakening,R
+3368,Domino,R
+3369,All of Us Strangers,R
+3370,Trouble with the Curve,PG-13
+3371,Set It Up,TV-14
+3372,Arthur Christmas,PG
+3373,Blow-Up,Not Rated
+3374,Dream House,PG-13
+3375,Force Majeure,R
+3376,Lolita,R
+3377,Far and Away,PG-13
+3378,13 Assassins,R
+3379,Control,R
+3380,Draft Day,PG-13
+3381,Neon Genesis Evangelion: The End of Evangelion,TV-MA
+3382,Machine Gun Preacher,R
+3383,Eight Below,PG
+3384,The Wages of Fear,Not Rated
+3385,Dinosaur,PG
+3386,Excalibur,PG
+3387,High School Musical 3: Senior Year,G
+3388,MaXXXine,R
+3389,Exit Through the Gift Shop,R
+3390,Storks,PG
+3391,All Quiet on the Western Front,Approved
+3392,The Nun II,R
+3393,Jackass 3D,R
+3394,Riders of Justice,Not Rated
+3395,Truth or Dare,PG-13
+3396,Harsh Times,R
+3397,Queen,Not Rated
+3398,Dorian Gray,R
+3399,Circle,Not Rated
+3400,Chernobyl Diaries,R
+3401,K-19: The Widowmaker,PG-13
+3402,Copycat,R
+3403,The Forgotten,PG-13
+3404,See How They Run,PG-13
+3405,The Hills Have Eyes 2,R
+3406,Spiderhead,R
+3407,Best in Show,PG-13
+3408,Blow Out,R
+3409,The Chorus,PG-13
+3410,Crash,NC-17
+3411,Fanny and Alexander,R
+3412,Half Baked,R
+3413,Mr. Holmes,PG
+3414,Blood Father,R
+3415,"Salò, or the 120 Days of Sodom",TV-MA
+3416,Luther: The Fallen Sun,R
+3417,Magnum Force,R
+3418,G.O.R.A.,Not Rated
+3419,Alpha,PG-13
+3420,Heavenly Creatures,R
+3421,Coffee and Cigarettes,R
+3422,In the Tall Grass,TV-MA
+3423,Ghajini,Not Rated
+3424,Punisher: War Zone,R
+3425,Red State,R
+3426,Kaiva,Not Rated
+3427,Fear Street: Part Three - 1666,R
+3428,The Little Prince,PG
+3429,Hoodwinked!,PG
+3430,Reminiscence,PG-13
+3431,Irrational Man,R
+3432,Spy Kids 3: Game Over,PG
+3433,Friday Night Lights,PG-13
+3434,The Player,R
+3435,Chariots of Fire,PG
+3436,The Informant!,R
+3437,Night on Earth,R
+3438,The Cat Returns,G
+3439,Do Patti,TV-MA
+3440,The Dressmaker,R
+3441,May December,R
+3442,What a Girl Wants,PG
+3443,Scooby-Doo 2: Monsters Unleashed,PG
+3444,Silent Hill: Revelation,R
+3445,Short Circuit,PG
+3446,Dog Soldiers,R
+3447,Sleeping with the Enemy,R
+3448,The Hustle,PG-13
+3449,Red Lights,R
+3450,Out of Time,PG-13
+3451,Shallow Grave,R
+3452,Pan,PG
+3453,Waking Life,R
+3454,The Mission,PG
+3455,Three Thousand Years of Longing,R
+3456,Resident Evil: Welcome to Raccoon City,R
+3457,La Strada,Not Rated
+3458,The Ghost and the Darkness,R
+3459,My Super Ex-Girlfriend,PG-13
+3460,Tusk,R
+3461,Bringing Up Baby,Approved
+3462,Salmon Fishing in the Yemen,PG-13
+3463,Terms of Endearment,PG
+3464,The Young Victoria,PG
+3465,Kiss of the Dragon,R
+3466,Wimbledon,PG-13
+3467,Basic,R
+3468,OMG: Oh My God!,Not Rated
+3469,Penelope,PG
+3470,Kung Fu Panda 4,PG
+3471,Dick Tracy,PG
+3472,Mirage,TV-MA
+3473,Tumbbad,Not Rated
+3474,The Boondock Saints II: All Saints Day,R
+3475,Enough Said,PG-13
+3476,Leave No Trace,PG
+3477,BASEketball,R
+3478,Lake Placid,R
+3479,Wonder Boys,R
+3480,The Crimson Rivers,R
+3481,Point Break,PG-13
+3482,Ferdinand,PG
+3483,Chhichhore,Not Rated
+3484,Timeline,PG-13
+3485,Infinity Pool,R
+3486,Black Snake Moan,R
+3487,A River Runs Through It,PG
+3488,Velvet Buzzsaw,R
+3489,Mowgli: Legend of the Jungle,PG-13
+3490,Grave Encounters,Not Rated
+3491,Kahaani,Not Rated
+3492,Pale Rider,R
+3493,Save the Last Dance,PG-13
+3494,Without Remorse,R
+3495,Brooklyn's Finest,R
+3496,My Octopus Teacher,TV-G
+3497,Charlie Bartlett,R
+3498,Sabotage,R
+3499,The Mauritanian,R
+3500,Zookeeper,PG
+3501,Innerspace,PG
+3502,The White Tiger,R
+3503,5 Centimeters per Second,TV-PG
+3504,Chennai Express,Not Rated
+3505,Monster-in-Law,PG-13
+3506,Bride of Chucky,R
+3507,Goal! The Dream Begins,PG
+3508,Spectral,PG-13
+3509,Missing,PG-13
+3510,High Plains Drifter,R
+3511,Takers,PG-13
+3512,The Right Stuff,PG
+3513,Leo,Not Rated
+3514,Menace II Society,R
+3515,Jungle,R
+3516,Emma.,PG
+3517,Vertical Limit,PG-13
+3518,The Guilty,R
+3519,Dennis the Menace,PG
+3520,I Heart Huckabees,R
+3521,Cry-Baby,PG-13
+3522,Maestro,R
+3523,Alive,R
+3524,Maharaja,Not Rated
+3525,New Nightmare,R
+3526,The Bikeriders,R
+3527,The Santa Clause 2,G
+3528,The Sisterhood of the Traveling Pants,PG
+3529,Dark Water,PG-13
+3530,Downton Abbey,PG
+3531,The Salesman,PG-13
+3532,Timecop,R
+3533,The Bad Guys,PG
+3534,The Haunting in Connecticut,PG-13
+3535,Becoming Jane,PG
+3536,"I, Daniel Blake",R
+3537,A Night at the Roxbury,PG-13
+3538,Ma,R
+3539,Fish Tank,Not Rated
+3540,The Girl with All the Gifts,R
+3541,Dolemite Is My Name,R
+3542,Before We Go,PG-13
+3543,The Upside,PG-13
+3544,Robot & Frank,PG-13
+3545,Bones and All,R
+3546,Kalki 2898 AD,Not Rated
+3547,Observe and Report,R
+3548,A Goofy Movie,G
+3549,Something Borrowed,PG-13
+3550,Runner Runner,R
+3551,In Her Shoes,PG-13
+3552,The Many Saints of Newark,R
+3553,Appaloosa,R
+3554,Straw Dogs,R
+3555,Free State of Jones,R
+3556,Wild Child,PG-13
+3557,We Are Marshall,PG
+3558,The Jerk,R
+3559,Calvary,R
+3560,Showtime,PG-13
+3561,Little Women,PG
+3562,Vampires,R
+3563,When in Rome,PG-13
+3564,Loving Vincent,PG-13
+3565,Don't Look Now,R
+3566,Star Trek V: The Final Frontier,PG
+3567,Steel Magnolias,PG
+3568,Red Dawn,PG-13
+3569,"Jeff, Who Lives at Home",R
+3570,Inland Empire,R
+3571,I Don't Feel at Home in This World Anymore,TV-MA
+3572,Blackhat,R
+3573,Texas Chainsaw Massacre,R
+3574,The Nanny Diaries,PG-13
+3575,Mindhunters,R
+3576,Ava,R
+3577,Three Days of the Condor,R
+3578,Days of Heaven,PG
+3579,The Animal,PG-13
+3580,Breakdown,R
+3581,Jack,PG-13
+3582,Love Hard,TV-MA
+3583,The General's Daughter,R
+3584,Charlie St. Cloud,PG-13
+3585,Weekend at Bernie's,PG-13
+3586,City Slickers,PG-13
+3587,Song of the Sea,PG
+3588,Perfect Sense,R
+3589,Bernie,PG-13
+3590,His Girl Friday,Approved
+3591,The Last Temptation of Christ,R
+3592,Super Mario Bros.,PG
+3593,Heart of Stone,PG-13
+3594,Pain and Glory,R
+3595,You People,R
+3596,Where Eagles Dare,M
+3597,Ride Along 2,PG-13
+3598,Titan A.E.,PG
+3599,The Voices,R
+3600,Victoria,Not Rated
+3601,Infinite,PG-13
+3602,Valhalla Rising,Not Rated
+3603,RV,PG
+3604,An Officer and a Gentleman,R
+3605,Despicable Me 4,PG
+3606,"Aguirre, the Wrath of God",Not Rated
+3607,Working Girl,R
+3608,Westworld,PG
+3609,Everybody's Fine,PG-13
+3610,The Omen,R
+3611,Empire Records,PG-13
+3612,The Darkest Hour,PG-13
+3613,The Great Debaters,PG-13
+3614,First Reformed,R
+3615,Session 9,R
+3616,Woman in Gold,PG-13
+3617,The Man with the Iron Fists,R
+3618,Bad Education,R
+3619,Who Am I,Not Rated
+3620,Always Be My Maybe,PG-13
+3621,What Ever Happened to Baby Jane?,Approved
+3622,Tully,R
+3623,Motherless Brooklyn,R
+3624,A Nightmare on Elm Street 4: The Dream Master,R
+3625,Karthikeya 2,Not Rated
+3626,Thirteen Days,PG-13
+3627,The Beguiled,R
+3628,The Brave One,R
+3629,The Money Pit,PG
+3630,Cheaper by the Dozen 2,PG
+3631,The Possession,PG-13
+3632,A Minecraft Movie,PG
+3633,Race to Witch Mountain,PG
+3634,Scanners,R
+3635,The Devil's Double,R
+3636,Pride and Glory,R
+3637,"4 Months, 3 Weeks and 2 Days",Not Rated
+3638,The Peacemaker,R
+3639,The Passion of Joan of Arc,Passed
+3640,Deep Water,R
+3641,Sneakers,PG-13
+3642,A Bridge Too Far,PG
+3643,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,R
+3644,The Man Who Knew Infinity,PG-13
+3645,Grizzly Man,R
+3646,The SpongeBob Movie: Sponge Out of Water,PG
+3647,Escape Room: Tournament of Champions,PG-13
+3648,Murder by Numbers,R
+3649,My Own Private Idaho,R
+3650,The Jewel of the Nile,PG
+3651,Halloween III: Season of the Witch,R
+3652,The Sweetest Thing,R
+3653,Cannibal Holocaust,Unrated
+3654,Secondhand Lions,PG
+3655,Duplex,PG-13
+3656,Sanju,TV-MA
+3657,In the Shadow of the Moon,TV-MA
+3658,The First Omen,R
+3659,Gangubai Kathiawadi,TV-MA
+3660,Buffalo '66,R
+3661,Duck Soup,Approved
+3662,Cats & Dogs,PG
+3663,Jason X,R
+3664,Chaplin,PG-13
+3665,Adrift,PG-13
+3666,Like Crazy,PG-13
+3667,Bound,R
+3668,Friday the 13th: Part 3,R
+3669,Sinister 2,R
+3670,Flash Gordon,PG
+3671,Mommy,R
+3672,Grudge Match,PG-13
+3673,The 39 Steps,Approved
+3674,Kickboxer,R
+3675,Cold War,R
+3676,2046,R
+3677,Emily the Criminal,R
+3678,The Rocketeer,PG
+3679,Just My Luck,PG-13
+3680,Mr. Right,R
+3681,The Man from Toronto,PG-13
+3682,The Spirit,PG-13
+3683,Benny & Joon,PG
+3684,The Lunchbox,PG
+3685,How High,R
+3686,Batman: The Killing Joke,Not Rated
+3687,Pride,R
+3688,Executive Decision,R
+3689,S1m0ne,PG-13
+3690,Logan's Run,PG
+3691,Rumor Has It...,PG-13
+3692,Date Movie,PG-13
+3693,Drillbit Taylor,PG-13
+3694,Battleship Potemkin,Not Rated
+3695,The Last Voyage of the Demeter,R
+3696,The Boxtrolls,PG
+3697,'71,R
+3698,Jonah Hex,PG-13
+3699,47 Meters Down,PG-13
+3700,Joe Dirt,PG-13
+3701,Poltergeist,PG-13
+3702,Hubie Halloween,PG-13
+3703,Breach,PG-13
+3704,The Belko Experiment,R
+3705,Masterminds,PG-13
+3706,Pete's Dragon,PG
+3707,In the Loop,Not Rated
+3708,My Bloody Valentine,R
+3709,Weathering with You,PG-13
+3710,Purple Hearts,TV-14
+3711,Friday the 13th: The Final Chapter,R
+3712,Under the Tuscan Sun,PG-13
+3713,Little Man,PG-13
+3714,Teen Wolf,PG
+3715,Underground,Not Rated
+3716,Absolute Power,R
+3717,I'm Not There,R
+3718,Apostle,TV-MA
+3719,The Cobbler,PG-13
+3720,The Producers,PG
+3721,Stonehearst Asylum,PG-13
+3722,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,PG
+3723,Magic Mike XXL,R
+3724,Mousehunt,PG
+3725,Crocodile Dundee II,PG
+3726,Wolf,R
+3727,All Good Things,R
+3728,Everybody Wants Some!!,R
+3729,Last Man Standing,R
+3730,Over the Top,PG
+3731,Ip Man 3,PG-13
+3732,Mufasa: The Lion King,PG
+3733,Wild Card,R
+3734,Queen of the Damned,R
+3735,Le Samouraï,GP
+3736,Dasvi,Not Rated
+3737,The American President,PG-13
+3738,Pride and Prejudice and Zombies,PG-13
+3739,Goodnight Mommy,R
+3740,Fanboys,PG-13
+3741,Hudson Hawk,R
+3742,Ferrari,R
+3743,Totally Killer,R
+3744,Ichi the Killer,Not Rated
+3745,Wet Hot American Summer,R
+3746,Cabaret,PG
+3747,Titane,R
+3748,Halloween II,R
+3749,Victor Frankenstein,PG-13
+3750,The Sea Beast,PG
+3751,The Ice Storm,R
+3752,Crimes and Misdemeanors,PG-13
+3753,"Sex, Lies, and Videotape",R
+3754,Dracula,Passed
+3755,Ida,PG-13
+3756,Black Rain,R
+3757,Animal Kingdom,R
+3758,Sinbad: Legend of the Seven Seas,PG
+3759,Battle of the Sexes,PG-13
+3760,Baby,Not Rated
+3761,Flashdance,R
+3762,Jab We Met,Not Rated
+3763,House on Haunted Hill,R
+3764,Gnomeo & Juliet,G
+3765,America's Sweethearts,PG-13
+3766,The Crying Game,R
+3767,Original Sin,R
+3768,Diary of a Wimpy Kid,PG
+3769,Eight Legged Freaks,PG-13
+3770,Bull Durham,R
+3771,Christmas with the Kranks,PG
+3772,Drinking Buddies,R
+3773,Waltz with Bashir,R
+3774,Beavis and Butt-Head Do America,PG-13
+3775,Decision to Leave,Not Rated
+3776,The Art of Getting By,PG-13
+3777,The Three Musketeers,PG
+3778,Fantasy Island,PG-13
+3779,Woman of the Hour,R
+3780,The World's Fastest Indian,PG-13
+3781,The Loft,R
+3782,The Light Between Oceans,PG-13
+3783,Sherlock Jr.,Passed
+3784,The Killing Fields,R
+3785,Courage Under Fire,R
+3786,The Golden Child,PG-13
+3787,Halloween 4: The Return of Michael Myers,R
+3788,Stillwater,R
+3789,Step Up 3D,PG-13
+3790,Police Academy 2: Their First Assignment,PG-13
+3791,The Gods Must Be Crazy,PG
+3792,How It Ends,TV-MA
+3793,Sister Act 2: Back in the Habit,PG
+3794,The Lodge,R
+3795,The Lookout,R
+3796,"See No Evil, Hear No Evil",R
+3797,Miracle,PG
+3798,Soldier,R
+3799,The Curse of La Llorona,R
+3800,The Call of the Wild,PG
+3801,Red Planet,PG-13
+3802,The Longest Day,G
+3803,Child's Play 2,R
+3804,Taxi 2,Not Rated
+3805,March of the Penguins,G
+3806,Florence Foster Jenkins,PG-13
+3807,Pee-wee's Big Adventure,PG
+3808,Color Out of Space,Unrated
+3809,Live by Night,R
+3810,Son of the Mask,PG
+3811,Frankenstein,R
+3812,Dead Man's Shoes,Not Rated
+3813,Arctic,PG-13
+3814,Gunday,Not Rated
+3815,Everything Is Illuminated,PG-13
+3816,The Legend of Bagger Vance,PG-13
+3817,Special 26,Not Rated
+3818,Religulous,R
+3819,Shaft,R
+3820,Last Tango in Paris,NC-17
+3821,Macbeth,R
+3822,Hotel Artemis,R
+3823,Automata,R
+3824,Jab Tak Hai Jaan,Not Rated
+3825,Sholay,Not Rated
+3826,A Bad Moms Christmas,R
+3827,Going the Distance,R
+3828,Firewall,PG-13
+3829,Rocketry: The Nambi Effect,Not Rated
+3830,Honest Thief,PG-13
+3831,Kalifornia,R
+3832,Revenge of the Nerds,R
+3833,Batman: Mask of the Phantasm,PG
+3834,Ladder 49,PG-13
+3835,Asterix & Obelix: Mission Cleopatra,PG
+3836,Stuart Little 2,PG
+3837,This Boy's Life,R
+3838,Heartbreakers,PG-13
+3839,Stalag 17,Approved
+3840,The Electric State,PG-13
+3841,Planet 51,PG
+3842,Traitor,PG-13
+3843,Spies in Disguise,PG
+3844,Children of the Corn,R
+3845,Ouija,PG-13
+3846,Extinction,TV-MA
+3847,Proof of Life,R
+3848,An American Tail,G
+3849,3-Iron,R
+3850,Coneheads,PG
+3851,Wicker Park,PG-13
+3852,Three Men and a Baby,PG
+3853,Don 2,Not Rated
+3854,Airlift,Not Rated
+3855,Frantic,R
+3856,Mortal Kombat: Annihilation,PG-13
+3857,Man on Wire,PG-13
+3858,Ghosts of Mars,R
+3859,Veer-Zaara,Not Rated
+3860,Chaos Walking,PG-13
+3861,High and Low,Not Rated
+3862,The Whole Ten Yards,PG-13
+3863,Smokey and the Bandit,PG
+3864,Harvey,Approved
+3865,Repulsion,Not Rated
+3866,Captive State,PG-13
+3867,Tell No One,Not Rated
+3868,Conquest 1453,Not Rated
+3869,Lords of Dogtown,PG-13
+3870,Nine Queens,R
+3871,Fletch,PG
+3872,Kuch Kuch Hota Hai,Not Rated
+3873,Kabhi Khushi Kabhie Gham...,Not Rated
+3874,Odd Thomas,PG-13
+3875,The Majestic,PG
+3876,2010: The Year We Make Contact,PG
+3877,Chaos,R
+3878,Haider,Not Rated
+3879,Ma Rainey's Black Bottom,R
+3880,Laxmii,Not Rated
+3881,The Lady Vanishes,Approved
+3882,The War of the Roses,R
+3883,Kinds of Kindness,R
+3884,Rebel Moon - Part Two: The Scargiver,PG-13
+3885,Head-On,R
+3886,Ordinary People,R
+3887,The Pink Panther,Approved
+3888,Apollo 18,PG-13
+3889,Step Up Revolution,PG-13
+3890,LOL,PG-13
+3891,The Little Rascals,PG
+3892,Dangerous Minds,R
+3893,Hard Target,NC-17
+3894,About Elly,TV-PG
+3895,Miracle in Cell No. 7,TV-14
+3896,Rendition,R
+3897,Citizenfour,R
+3898,The Haunted Mansion,PG
+3899,Bangkok Dangerous,R
+3900,Final Fantasy VII: Advent Children,PG-13
+3901,I Feel Pretty,PG-13
+3902,Andrei Rublev,R
+3903,Dragged Across Concrete,R
+3904,Naked Lunch,R
+3905,Don't Say a Word,R
+3906,Togo,PG
+3907,Airplane II: The Sequel,PG
+3908,Wristcutters: A Love Story,R
+3909,Stand Up Guys,R
+3910,Samaritan,PG-13
+3911,Dave,PG-13
+3912,Sonic the Hedgehog 3,PG
+3913,Before I Fall,PG-13
+3914,Child's Play,R
+3915,Hellbound: Hellraiser II,R
+3916,Colonia,R
+3917,The Experiment,R
+3918,Fear,R
+3919,Leviathan,R
+3920,Great Expectations,R
+3921,Assault on Precinct 13,R
+3922,The Adventures of Baron Munchausen,PG
+3923,Luckiest Girl Alive,R
+3924,Revenge,R
+3925,Man Up,R
+3926,Hillbilly Elegy,R
+3927,The Astronaut's Wife,R
+3928,Texas Chainsaw,R
+3929,The Triplets of Belleville,PG-13
+3930,Pieces of a Woman,R
+3931,Winter's Tale,PG-13
+3932,Walk of Shame,R
+3933,Whiskey Tango Foxtrot,R
+3934,"The Adventures of Priscilla, Queen of the Desert",R
+3935,Airheads,PG-13
+3936,The Dirt,TV-MA
+3937,Quills,R
+3938,The Tale of The Princess Kaguya,PG
+3939,Sanctum,R
+3940,Baby's Day Out,PG
+3941,Throne of Blood,Not Rated
+3942,Chain Reaction,PG-13
+3943,Miracle on 34th Street,Approved
+3944,Scouts Guide to the Zombie Apocalypse,R
+3945,IF,PG
+3946,Boiler Room,R
+3947,Shine,PG-13
+3948,Open Water,R
+3949,Vampire Academy,PG-13
+3950,Insidious: The Red Door,PG-13
+3951,The Eye,PG-13
+3952,Flight of the Phoenix,PG-13
+3953,Official Secrets,R
+3954,The Wedding Date,PG-13
+3955,Blood Red Sky,TV-MA
+3956,Lakeview Terrace,PG-13
+3957,My Blueberry Nights,PG-13
+3958,The Dilemma,PG-13
+3959,Cats,PG
+3960,"Black Cat, White Cat",R
+3961,Can You Ever Forgive Me?,R
+3962,Mimic,R
+3963,The Guns of Navarone,Not Rated
+3964,The Space Between Us,PG-13
+3965,Mary Queen of Scots,R
+3966,Shamshera,Not Rated
+3967,The House with a Clock in Its Walls,PG
+3968,Winter Sleep,Not Rated
+3969,"Red, White & Royal Blue",R
+3970,In Good Company,PG-13
+3971,Alvin and the Chipmunks: The Squeakquel,PG
+3972,Stealth,PG-13
+3973,Detroit,R
+3974,Rough Night,R
+3975,Invasion of the Body Snatchers,Approved
+3976,Casanova,R
+3977,Wyatt Earp,PG-13
+3978,Speak No Evil,Not Rated
+3979,Life,R
+3980,The Legend of Hercules,PG-13
+3981,The Croods: A New Age,PG
+3982,Martha Marcy May Marlene,R
+3983,The Witches,PG
+3984,The Flowers of War,R
+3985,Down by Law,R
+3986,The Purple Rose of Cairo,PG
+3987,Rent,PG-13
+3988,To the Bone,TV-MA
+3989,Amy,R
+3990,The Watchers,PG-13
+3991,Anthropoid,R
+3992,History of the World: Part I,R
+3993,Love Lies Bleeding,R
+3994,Show Me Love,Not Rated
+3995,Take Me Home Tonight,R
+3996,The Big Blue,PG
+3997,Parenthood,PG-13
+3998,The Wind that Shakes the Barley,Not Rated
+3999,Adam's Apples,R
+4000,Hard Eight,R
+4001,Bad Words,R
+4002,The Great Mouse Detective,G
+4003,The Garden of Words,TV-14
+4004,Andaz Apna Apna,Not Rated
+4005,Judy,PG-13
+4006,Hart's War,R
+4007,The Benchwarmers,PG-13
+4008,Icarus,TV-MA
+4009,The First Wives Club,PG
+4010,Marighella,Not Rated
+4011,To Die For,R
+4012,Nimona,PG
+4013,Watcher,R
+4014,The Proposition,R
+4015,Stagecoach,Approved
+4016,Enes Batur: Imagination or Reality?,Not Rated
+4017,Disclosure,R
+4018,Arbitrage,R
+4019,RoboCop 3,PG-13
+4020,Dead Ringers,R
+4021,Departures,PG-13
+4022,U Turn,R
+4023,Hocus Pocus 2,PG
+4024,Dumb Money,R
+4025,National Security,PG-13
+4026,The Laundromat,R
+4027,Da 5 Bloods,R
+4028,Night Watch,R
+4029,Kelly's Heroes,GP
+4030,THX 1138,GP
+4031,How Do You Know,PG-13
+4032,The Collection,R
+4033,The Adventures of Robin Hood,PG
+4034,The Soloist,PG-13
+4035,Marnie,PG
+4036,Code 8,TV-MA
+4037,Tammy,R
+4038,The Hitcher,R
+4039,28 Days,PG-13
+4040,Mudbound,R
+4041,Pushpa: The Rule - Part 2,Not Rated
+4042,The Love Guru,PG-13
+4043,Rab Ne Bana Di Jodi,Not Rated
+4044,The Sentinel,PG-13
+4045,Hard Boiled,R
+4046,Atlas,PG-13
+4047,Away We Go,R
+4048,Romy and Michele's High School Reunion,R
+4049,Ricky Stanicky,R
+4050,From Up on Poppy Hill,PG
+4051,Stuck on You,PG-13
+4052,The Ridiculous 6,TV-14
+4053,Win Win,R
+4054,Alfie,R
+4055,Beneath the Planet of the Apes,G
+4056,Reality Bites,PG-13
+4057,Grumpy Old Men,PG-13
+4058,Bride of Frankenstein,Approved
+4059,Under the Silver Lake,R
+4060,Fallen Angels,Not Rated
+4061,You Again,PG
+4062,Can't Hardly Wait,PG-13
+4063,Transsiberian,R
+4064,BlackBerry,R
+4065,Veronica Mars,PG-13
+4066,A Rainy Day in New York,PG-13
+4067,Hot Pursuit,PG-13
+4068,Spirited,PG-13
+4069,When We First Met,TV-14
+4070,Far from the Madding Crowd,PG-13
+4071,The Guernsey Literary and Potato Peel Pie Society,TV-14
+4072,The Babysitter: Killer Queen,TV-MA
+4073,Death at a Funeral,R
+4074,Cowboy Bebop: The Movie,18+
+4075,The Meyerowitz Stories,TV-MA
+4076,Creepshow,R
+4077,Forbidden Planet,G
+4078,Sunrise,Passed
+4079,The Condemned,R
+4080,Cat on a Hot Tin Roof,Approved
+4081,Superman IV: The Quest for Peace,PG
+4082,Chor Nikal Ke Bhaga,TV-MA
+4083,Ginger Snaps,Not Rated
+4084,White Christmas,Approved
+4085,The Double Life of Véronique,R
+4086,Tiger 3,Not Rated
+4087,Tristan + Isolde,PG-13
+4088,French Kiss,PG-13
+4089,Oliver & Company,G
+4090,Sophie's Choice,R
+4091,Hesher,R
+4092,Yeh Jawaani Hai Deewani,Not Rated
+4093,Sultan,Not Rated
+4094,Mirror,Not Rated
+4095,Starman,PG
+4096,The Last Picture Show,R
+4097,Nights of Cabiria,Not Rated
+4098,Paper Moon,PG
+4099,While We're Young,R
+4100,Bill & Ted Face the Music,PG-13
+4101,Tin Cup,R
+4102,The Way Back,R
+4103,Vegas Vacation,PG
+4104,Cassandra's Dream,PG-13
+4105,Deuce Bigalow: European Gigolo,R
+4106,The Final Girls,PG-13
+4107,Stowaway,TV-MA
+4108,Nutty Professor II: The Klumps,PG-13
+4109,Hoosiers,PG
+4110,Soul Surfer,PG
+4111,The Rules of Attraction,R
+4112,I Spy,PG-13
+4113,Spellbound,Approved
+4114,Spies Like Us,PG
+4115,The Apprentice,R
+4116,Shaitaan,Not Rated
+4117,Don Juan DeMarco,PG-13
+4118,Labor Day,PG-13
+4119,Footloose,PG-13
+4120,Friday the 13th Part VI: Jason Lives,R
+4121,Lions for Lambs,R
+4122,The Double,R
+4123,In the Heights,PG-13
+4124,The Natural,PG
+4125,Do Revenge,TV-MA
+4126,Everything Must Go,R
+4127,The Unborn,PG-13
+4128,Kraven the Hunter,R
+4129,Teri Baaton Mein Aisa Uljha Jiya,Not Rated
+4130,Untraceable,R
+4131,The Report,R
+4132,Before I Wake,PG-13
+4133,The Girl in the Spider's Web,R
+4134,Much Ado About Nothing,PG-13
+4135,Back in Action,PG-13
+4136,Keeping the Faith,PG-13
+4137,The Great Outdoors,PG
+4138,Gunpowder Milkshake,R
+4139,Samrat Prithviraj,Not Rated
+4140,The Do-Over,TV-MA
+4141,The House of the Devil,R
+4142,Forgotten,TV-MA
+4143,Keanu,R
+4144,The Man Who Would Be King,PG
+4145,If Beale Street Could Talk,R
+4146,The Back-up Plan,PG-13
+4147,Laura,Approved
+4148,The Covenant,PG-13
+4149,Raatchasan,Not Rated
+4150,American Splendor,R
+4151,The Descent: Part 2,R
+4152,Secret in Their Eyes,PG-13
+4153,Fyre,TV-MA
+4154,Arthur,PG-13
+4155,The Silence,PG-13
+4156,Jackass Forever,R
+4157,Toni Erdmann,R
+4158,Bullet to the Head,R
+4159,The Brothers Bloom,PG-13
+4160,The Last Exorcism,PG-13
+4161,Flight of the Navigator,PG
+4162,The Witcher: Nightmare of the Wolf,TV-MA
+4163,Kon-Tiki,PG-13
+4164,Freddy's Dead: The Final Nightmare,R
+4165,The Archies,TV-14
+4166,Cujo,R
+4167,Homeward Bound: The Incredible Journey,G
+4168,True Grit,G
+4169,Son of Saul,R
+4170,The East,PG-13
+4171,Ladyhawke,PG-13
+4172,A Nightmare on Elm Street: The Dream Child,R
+4173,Kill the Irishman,R
+4174,Black Dynamite,R
+4175,Enemy Mine,PG-13
+4176,He Got Game,R
+4177,Vampires Suck,PG-13
+4178,The Professor and the Madman,Not Rated
+4179,The Hunted,R
+4180,Bulletproof Monk,PG-13
+4181,Thirst,R
+4182,Duplicity,PG-13
+4183,The Endless,Not Rated
+4184,Freddy Got Fingered,R
+4185,Stuber,R
+4186,The Take,R
+4187,The Rover,R
+4188,The Killer,R
+4189,Suzume,PG
+4190,Orange County,PG-13
+4191,The Pirates! Band of Misfits,PG
+4192,Perfect Stranger,R
+4193,Prince of Darkness,R
+4194,Black Death,R
+4195,The Big Wedding,R
+4196,Bubba Ho-Tep,R
+4197,The Union,PG-13
+4198,"Food, Inc.",PG
+4199,Howard the Duck,PG
+4200,Without a Paddle,PG-13
+4201,The Family Plan,PG-13
+4202,Vikram Vedha,Not Rated
+4203,15 Minutes,R
+4204,Black Christmas,R
+4205,Freaks,Not Rated
+4206,Chitty Chitty Bang Bang,G
+4207,A Royal Affair,R
+4208,From Here to Eternity,Approved
+4209,The Fan,R
+4210,Immaculate,R
+4211,Hellraiser,R
+4212,Loaded Weapon 1,PG-13
+4213,Flatliners,PG-13
+4214,Sydney White,PG-13
+4215,The Grudge 2,PG-13
+4216,CHIPS,R
+4217,The Message,PG
+4218,Herbie: Fully Loaded,G
+4219,Inspector Gadget,PG
+4220,The Blind Swordsman: Zatoichi,R
+4221,Joe,R
+4222,Rockstar,Not Rated
+4223,Dressed to Kill,R
+4224,The River Wild,PG-13
+4225,Rachel Getting Married,R
+4226,Lilya 4-Ever,R
+4227,Om Shanti Om,Not Rated
+4228,The Cove,PG-13
+4229,The Italian Job,G
+4230,The Green Inferno,R
+4231,Gomorrah,Not Rated
+4232,Toofaan,Not Rated
+4233,Seed of Chucky,R
+4234,Free Fire,R
+4235,Babygirl,R
+4236,Passenger 57,R
+4237,Rabbit Hole,PG-13
+4238,The Ice Road,PG-13
+4239,Pawn Sacrifice,PG-13
+4240,Once Upon a Time in Anatolia,Not Rated
+4241,Fighter,Not Rated
+4242,In the Name of the King: A Dungeon Siege Tale,PG-13
+4243,Bottoms,R
+4244,Pain Hustlers,R
+4245,Raees,TV-MA
+4246,Silverado,PG-13
+4247,A Haunted House,R
+4248,The Hand of God,R
+4249,Wolf Children,PG
+4250,Fair Game,PG-13
+4251,Look Who's Back,Not Rated
+4252,Get Rich or Die Tryin',R
+4253,Saint Maud,R
+4254,Imperium,R
+4255,Lage Raho Munna Bhai,Not Rated
+4256,Kinsey,R
+4257,The Poseidon Adventure,PG
+4258,Formula 51,R
+4259,The Runaways,R
+4260,The Past,PG-13
+4261,The Imposter,R
+4262,Lust Stories 2,TV-MA
+4263,G-Force,PG
+4264,Troll,TV-14
+4265,Psycho,R
+4266,My Sassy Girl,Not Rated
+4267,Carriers,PG-13
+4268,Buffy the Vampire Slayer,PG-13
+4269,White Noise,PG-13
+4270,Under Siege 2: Dark Territory,R
+4271,Think Like a Man,PG-13
+4272,When Marnie Was There,PG
+4273,The Good Liar,R
+4274,Adventures in Babysitting,PG-13
+4275,Last Night,R
+4276,The Peanuts Movie,G
+4277,Blair Witch,R
+4278,The Perfection,TV-MA
+4279,Stronger,R
+4280,Rules of Engagement,R
+4281,Halloween: Resurrection,R
+4282,Gigli,R
+4283,The Beaver,PG-13
+4284,Unsane,R
+4285,Tooth Fairy,PG
+4286,Hector and the Search for Happiness,R
+4287,Employee of the Month,PG-13
+4288,Annie,PG
+4289,Belle de Jour,Approved
+4290,#Alive,TV-MA
+4291,"Two Days, One Night",PG-13
+4292,Sleuth,PG
+4293,Don't Be Afraid of the Dark,R
+4294,Jaws: The Revenge,PG-13
+4295,Shutter,Not Rated
+4296,Forever Young,PG
+4297,War Machine,TV-MA
+4298,Absolutely Anything,R
+4299,His House,TV-14
+4300,Frenzy,R
+4301,We Live in Time,R
+4302,11:14,R
+4303,Time Lapse,Not Rated
+4304,The Rebound,R
+4305,Cosmopolis,R
+4306,To Catch a Killer,R
+4307,Extract,R
+4308,Land of Bad,R
+4309,The Enforcer,R
+4310,Operation Finale,PG-13
+4311,London Boulevard,R
+4312,No Way Out,R
+4313,Dhoom 3,Not Rated
+4314,Better Off Dead,PG
+4315,Bad Company,PG-13
+4316,Murder Mubarak,TV-MA
+4317,Two for the Money,R
+4318,Guess Who's Coming to Dinner,Approved
+4319,American Animals,R
+4320,20th Century Women,R
+4321,The Hand That Rocks the Cradle,R
+4322,Shall We Dance?,PG-13
+4323,Tokyo Godfathers,PG-13
+4324,The Old Man & the Gun,PG-13
+4325,When Evil Lurks,Not Rated
+4326,Nothing to Lose,R
+4327,After the Sunset,PG-13
+4328,The Mother,R
+4329,Orphan: First Kill,R
+4330,W.,PG-13
+4331,The Dead Pool,R
+4332,Lost Ladies,TV-14
+4333,Varsity Blues,R
+4334,The Zero Theorem,R
+4335,Dolores Claiborne,R
+4336,Happiest Season,PG-13
+4337,Fan,Not Rated
+4338,Sudden Impact,R
+4339,Monte Carlo,PG
+4340,Tangerines,Not Rated
+4341,Planes,PG
+4342,Far from Heaven,PG-13
+4343,Bad Lieutenant,NC-17
+4344,Peter Rabbit,PG
+4345,Congo,PG-13
+4346,Mongol: The Rise of Genghis Khan,R
+4347,Possessor,R
+4348,A Man Apart,R
+4349,Cargo,TV-MA
+4350,The Towering Inferno,PG
+4351,Drunken Master II,R
+4352,The Holy Mountain,R
+4353,Bad Taste,Not Rated
+4354,Jaws 3-D,PG
+4355,Ju-on: The Grudge,R
+4356,Strange Darling,R
+4357,East of Eden,PG
+4358,Police Academy 3: Back in Training,PG
+4359,A Room with a View,Not Rated
+4360,Anon,TV-MA
+4361,Heartbreak Ridge,R
+4362,Waitress,PG-13
+4363,Transformers One,PG
+4364,Diary of the Dead,R
+4365,Holy Motors,Not Rated
+4366,The Day of the Jackal,PG
+4367,Saved!,PG-13
+4368,Very Bad Things,R
+4369,Veronica,TV-MA
+4370,To All the Boys: P.S. I Still Love You,TV-14
+4371,Ingrid Goes West,R
+4372,Striptease,R
+4373,Glory Road,PG
+4374,Starred Up,Not Rated
+4375,Presumed Innocent,R
+4376,Balto,G
+4377,When a Stranger Calls,PG-13
+4378,Withnail and I,R
+4379,3000 Miles to Graceland,R
+4380,The Pink Panther 2,PG
+4381,Swimming Pool,Not Rated
+4382,St. Elmo's Fire,R
+4383,Pink,Not Rated
+4384,Fiddler on the Roof,G
+4385,The Vanishing,Not Rated
+4386,Possession,R
+4387,Sleeping with Other People,R
+4388,Look Who's Talking Too,PG-13
+4389,The Boss,R
+4390,High Crimes,PG-13
+4391,Casualties of War,R
+4392,Fly Me to the Moon,PG-13
+4393,The Company Men,R
+4394,No Man's Land,R
+4395,Bachelorette,R
+4396,Kung Pow: Enter the Fist,PG-13
+4397,A Hard Day's Night,G
+4398,Amarcord,R
+4399,Countdown,PG-13
+4400,Hobo with a Shotgun,Not Rated
+4401,The Tenant,R
+4402,One Fine Day,PG
+4403,The Expendables 4,R
+4404,The Boogeyman,PG-13
+4405,Enough,PG-13
+4406,Kill the Messenger,R
+4407,Race 3,Not Rated
+4408,Fred Claus,PG
+4409,Secrets & Lies,R
+4410,The Odd Life of Timothy Green,PG
+4411,Red Cliff,R
+4412,Halloween 5: The Revenge of Michael Myers,R
+4413,A Prueba De Hombres,R
+4414,Bird on a Wire,PG-13
+4415,Killer Klowns from Outer Space,PG-13
+4416,The Big Year,PG
+4417,Clash of the Titans,PG
+4418,Blood Work,R
+4419,Dog,PG-13
+4420,Better Watch Out,R
+4421,Highlander II: The Quickening,R
+4422,Jujutsu Kaisen 0,PG-13
+4423,Boiling Point,R
+4424,Tolkien,PG-13
+4425,Rising Sun,R
+4426,Happy Feet Two,PG
+4427,Lift,PG-13
+4428,Garfield: A Tail of Two Kitties,PG
+4429,The Rescuers Down Under,G
+4430,Of Mice and Men,PG-13
+4431,Deconstructing Harry,R
+4432,The Hole,R
+4433,Sardar Udham,TV-MA
+4434,Chip 'n Dale: Rescue Rangers,PG
+4435,"New York, I Love You",R
+4436,Cirque du Freak: The Vampire's Assistant,PG-13
+4437,Dark Places,R
+4438,Roxanne,PG
+4439,Fever Pitch,PG-13
+4440,Slow West,R
+4441,Che: Part One,Not Rated
+4442,The Discreet Charm of the Bourgeoisie,PG
+4443,Summer of 84,Not Rated
+4444,The Witches,PG
+4445,Child's Play 3,R
+4446,A Wrinkle in Time,PG
+4447,Candy,R
+4448,Devdas,Not Rated
+4449,Idle Hands,R
+4450,Cinderella,PG
+4451,Ra.One,Not Rated
+4452,The Good Girl,R
+4453,Seeking Justice,R
+4454,The House,R
+4455,Women on the Verge of a Nervous Breakdown,R
+4456,Dr. Dolittle 2,PG
+4457,Million Dollar Arm,PG
+4458,Suburbicon,R
+4459,MacGruber,R
+4460,Short Cuts,R
+4461,It's a Mad Mad Mad Mad World,Approved
+4462,Strange World,PG
+4463,A Hologram for the King,R
+4464,The Return,Not Rated
+4465,All Dogs Go to Heaven,G
+4466,Terrifier 3,Not Rated
+4467,Mr. Magorium's Wonder Emporium,G
+4468,Udaan,Not Rated
+4469,Drishyam 2,Not Rated
+4470,Rebecca,PG-13
+4471,Honey,PG-13
+4472,Sleep Tight,Not Rated
+4473,Endless Love,PG-13
+4474,Baby Mama,PG-13
+4475,The Spy Next Door,PG
+4476,American Honey,R
+4477,The Verdict,R
+4478,Teeth,R
+4479,The Call,TV-MA
+4480,The Colony,Not Rated
+4481,Sikandar,Not Rated
+4482,The Zookeeper's Wife,PG-13
+4483,Liger,Not Rated
+4484,Ben-Hur,PG-13
+4485,The Smurfs 2,PG
+4486,Charlotte's Web,G
+4487,"Honey, I Blew Up the Kid",PG
+4488,Morgan,R
+4489,You Will Meet a Tall Dark Stranger,R
+4490,Lock Up,R
+4491,The Wrong Missy,TV-MA
+4492,Manhattan Murder Mystery,PG
+4493,The Boy Who Harnessed the Wind,TV-PG
+4494,The Hidden Face,R
+4495,The Last Starfighter,PG
+4496,The Counterfeiters,R
+4497,The Choice,PG-13
+4498,Borderlands,PG-13
+4499,Big Momma's House 2,PG-13
+4500,Palmer,R
+4501,Pokémon: The First Movie - Mewtwo Strikes Back,G
+4502,The Inbetweeners 2,Not Rated
+4503,Maggie,PG-13
+4504,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",PG
+4505,Alone in the Dark,R
+4506,Cradle 2 the Grave,R
+4507,Somewhere,R
+4508,Central Station,R
+4509,Thoroughbreds,R
+4510,Time Trap,Not Rated
+4511,Land of Mine,R
+4512,Rumble in the Bronx,R
+4513,Would You Rather,Not Rated
+4514,Rob Roy,R
+4515,Pusher,Not Rated
+4516,Night School,PG-13
+4517,Serenity,R
+4518,Kill List,Not Rated
+4519,The Secret of NIMH,G
+4520,The Vast of Night,PG-13
+4521,The Lazarus Effect,PG-13
+4522,The Good Son,R
+4523,The Goat Life,Not Rated
+4524,Antlers,R
+4525,Porky's,R
+4526,My Best Friend's Girl,R
+4527,Near Dark,R
+4528,Conviction,R
+4529,Gone,PG-13
+4530,Haunted Mansion,PG-13
+4531,Police Academy 4: Citizens on Patrol,PG
+4532,Miracle on 34th Street,PG
+4533,Hannah Montana: The Movie,G
+4534,Night of the Living Dead,R
+4535,The Boy Next Door,R
+4536,The Stanford Prison Experiment,R
+4537,1: Nenokkadine,Not Rated
+4538,Byzantium,R
+4539,Taxi 3,Not Rated
+4540,The Damned United,R
+4541,DOA: Dead or Alive,PG-13
+4542,Fist Fight,R
+4543,Guess Who,PG-13
+4544,Stolen,R
+4545,Dracula: Dead and Loving It,PG-13
+4546,A.R.O.G,TV-G
+4547,Notorious,R
+4548,District 13: Ultimatum,R
+4549,Escape from Pretoria,PG-13
+4550,Thunder Force,PG-13
+4551,Brimstone,R
+4552,The Matador,R
+4553,The Addams Family,PG
+4554,Pathfinder,R
+4555,Proof,PG-13
+4556,Nosferatu the Vampyre,PG
+4557,The Wonder,R
+4558,The Amityville Horror,R
+4559,"Lust, Caution",NC-17
+4560,Serial Bad Weddings,Not Rated
+4561,Fired Up!,PG-13
+4562,Sea of Love,R
+4563,Arizona Dream,R
+4564,Encino Man,PG
+4565,Talaash: The Answer Lies Within,Not Rated
+4566,Asterix and Obelix vs. Caesar,Not Rated
+4567,The Forest,PG-13
+4568,Last Knights,R
+4569,Priscilla,R
+4570,Outside the Wire,R
+4571,Striking Distance,R
+4572,Uptown Girls,PG-13
+4573,Curse of the Golden Flower,R
+4574,The Blob,R
+4575,Aquamarine,PG
+4576,Piranha 3DD,R
+4577,To Be or Not to Be,Approved
+4578,Inside,R
+4579,Paranormal Activity: The Marked Ones,R
+4580,The Hitcher,R
+4581,Friday the 13th: A New Beginning,R
+4582,The Time Machine,G
+4583,It Could Happen to You,PG
+4584,What Is a Woman?,Not Rated
+4585,Snake Eyes,PG-13
+4586,She Said,R
+4587,The Secret Garden,G
+4588,V/H/S/2,R
+4589,Cleaner,R
+4590,Shadow of the Vampire,R
+4591,Trespass,R
+4592,Wish,PG
+4593,Laggies,R
+4594,Fahrenheit 451,Not Rated
+4595,Brief Encounter,Approved
+4596,High-Rise,R
+4597,But I'm a Cheerleader,R
+4598,Oxygen,TV-14
+4599,The Exorcist: Believer,R
+4600,Naked,Not Rated
+4601,Life as a House,R
+4602,Tales from Earthsea,PG-13
+4603,A Thousand Words,PG-13
+4604,Vicky Donor,Not Rated
+4605,Behind the Candelabra,TV-MA
+4606,The Forever Purge,R
+4607,Kaithi,Not Rated
+4608,Masters of the Universe,PG
+4609,White Noise,R
+4610,Welcome to the Sticks,Not Rated
+4611,Red Sonja,PG-13
+4612,The Transporter Refueled,PG-13
+4613,Rock Star,R
+4614,The Siege of Jadotville,TV-MA
+4615,The Avengers,PG-13
+4616,Nick of Time,R
+4617,Senior Year,R
+4618,The Ward,R
+4619,Another 48 Hrs.,R
+4620,Marry Me,PG-13
+4621,Taxi,PG-13
+4622,North Country,R
+4623,White Boy Rick,R
+4624,God's Not Dead,PG
+4625,Being the Ricardos,R
+4626,Le Dîner de Cons,PG-13
+4627,The Marksman,PG-13
+4628,Beast,R
+4629,Shane,Approved
+4630,Michael,PG
+4631,Death Wish,R
+4632,Ayla: The Daughter of War,Not Rated
+4633,Stop! Or My Mom Will Shoot,PG-13
+4634,Nine,PG-13
+4635,The Skeleton Twins,R
+4636,Dead Calm,R
+4637,Edtv,PG-13
+4638,Sabrina,PG
+4639,Down with Love,PG-13
+4640,Next Friday,R
+4641,Balls of Fury,PG-13
+4642,Crossroads,PG-13
+4643,Drishyam,Not Rated
+4644,Jules and Jim,Not Rated
+4645,Drunken Master,PG-13
+4646,The Prototype,Not Rated
+4647,The Producers,PG-13
+4648,Curse of Chucky,R
+4649,Hang 'Em High,Approved
+4650,Women Talking,PG-13
+4651,Double Impact,R
+4652,Sleeper,PG
+4653,Suffragette,PG-13
+4654,Friday the 13th Part VIII: Jason Takes Manhattan,R
+4655,The Loved Ones,R
+4656,"Roman J. Israel, Esq.",PG-13
+4657,The Party,Approved
+4658,In & Out,PG-13
+4659,Flyboys,PG-13
+4660,The Human Centipede 2 (Full Sequence),Not Rated
+4661,Key Largo,Approved
+4662,The Visitor,PG-13
+4663,9½ Weeks,R
+4664,The Kid,PG
+4665,The Half of It,PG-13
+4666,The Outpost,R
+4667,The Card Counter,R
+4668,The Reaping,R
+4669,Trust,R
+4670,Beverly Hills Ninja,PG-13
+4671,Radio,PG
+4672,All About Steve,PG-13
+4673,Hope Springs,PG-13
+4674,Gentlemen Prefer Blondes,Approved
+4675,The One I Love,R
+4676,Deep Red,R
+4677,Shaun the Sheep Movie,PG
+4678,Boy Erased,R
+4679,Dear Zindagi,Not Rated
+4680,Mission Majnu,TV-MA
+4681,Zelig,PG
+4682,Gully Boy,Not Rated
+4683,Stake Land,R
+4684,King of New York,R
+4685,The Medallion,PG-13
+4686,Marrowbone,R
+4687,13,R
+4688,Stree,Not Rated
+4689,Man Bites Dog,NC-17
+4690,Nowhere,TV-MA
+4691,Old Dads,R
+4692,Brick Mansions,PG-13
+4693,Abominable,PG
+4694,They Cloned Tyrone,R
+4695,Ravenous,R
+4696,In America,PG-13
+4697,Meet Dave,PG
+4698,Friday the 13th: The New Blood,R
+4699,Bad Education,TV-MA
+4700,Brewster's Millions,PG
+4701,The Taking of Deborah Logan,R
+4702,A Bittersweet Life,Not Rated
+4703,Two Lovers,R
+4704,Ludo,Not Rated
+4705,Dirty Pretty Things,R
+4706,Gehraiyaan,Not Rated
+4707,Whale Rider,PG-13
+4708,The Perfect Date,TV-14
+4709,Black Sheep,PG-13
+4710,OMG 2,TV-MA
+4711,The Wave,R
+4712,One for the Money,PG-13
+4713,The Salvation,R
+4714,Suspicion,Approved
+4715,Fatherhood,PG-13
+4716,The Void,Not Rated
+4717,Weird: The Al Yankovic Story,TV-14
+4718,Personal Shopper,R
+4719,The Santa Clause 3: The Escape Clause,G
+4720,Black Knight,PG-13
+4721,Mimi,TV-14
+4722,People Like Us,PG-13
+4723,The Horse Whisperer,PG-13
+4724,Police Story,PG-13
+4725,The Sessions,R
+4726,Pinocchio,PG
+4727,Bitter Moon,R
+4728,The Adventures of Sharkboy and Lavagirl 3-D,PG
+4729,Rings,PG-13
+4730,Zulu,Approved
+4731,The Seven Year Itch,Approved
+4732,Host,Not Rated
+4733,Les Misérables,PG-13
+4734,Hustle & Flow,R
+4735,"McFarland, USA",PG
+4736,The Informer,R
+4737,Ironclad,R
+4738,The Broken Circle Breakdown,Not Rated
+4739,The Chaos Class,Not Rated
+4740,Thesis,R
+4741,Celal and Ceren,Not Rated
+4742,Tigerland,R
+4743,Crimes of the Future,R
+4744,D2: The Mighty Ducks,PG
+4745,Who Am I?,PG-13
+4746,Capitalism: A Love Story,R
+4747,Narc,R
+4748,Money Train,R
+4749,Fair Play,R
+4750,Halloween: The Curse of Michael Myers,R
+4751,Wasabi,R
+4752,Smallfoot,PG
+4753,The Quiet Man,Approved
+4754,So I Married an Axe Murderer,PG-13
+4755,The Wife,R
+4756,Jayeshbhai Jordaar,Not Rated
+4757,The Gunman,R
+4758,The Haunting,G
+4759,Catfish,PG-13
+4760,The Tall Man,R
+4761,Rocky Aur Rani Kii Prem Kahaani,Not Rated
+4762,Driven,PG-13
+4763,On the Road,R
+4764,Saving Silverman,PG-13
+4765,Can't Buy Me Love,PG-13
+4766,The Hidden Fortress,Not Rated
+4767,Single White Female,R
+4768,The Big Chill,R
+4769,Mighty Aphrodite,R
+4770,Love & Mercy,PG-13
+4771,The Water Horse,PG
+4772,Cube Zero,R
+4773,Synchronic,R
+4774,Giant,G
+4775,Murder by Death,PG
+4776,Bachelor Party,R
+4777,Lovelace,R
+4778,Regression,R
+4779,Maps to the Stars,R
+4780,Muriel's Wedding,R
+4781,It's a Boy Girl Thing,PG-13
+4782,Friends with Kids,R
+4783,"Everything, Everything",PG-13
+4784,Camp X-Ray,R
+4785,Replicas,PG-13
+4786,Death to Smoochy,R
+4787,Did You Hear About the Morgans?,PG-13
+4788,The Railway Man,R
+4789,Left Behind,PG-13
+4790,The Empty Man,R
+4791,Stone,R
+4792,Confessions,Not Rated
+4793,The Legend of Tomiris,TV-14
+4794,Repo Man,R
+4795,The Transformers: The Movie,PG
+4796,Dumb and Dumberer: When Harry Met Lloyd,PG-13
+4797,Broken Embraces,R
+4798,Thief,R
+4799,High Life,R
+4800,Reindeer Games,R
+4801,The Lizzie McGuire Movie,PG
+4802,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,R
+4803,Evil,Not Rated
+4804,Searching for Bobby Fischer,PG
+4805,The Spanish Apartment,R
+4806,"The Cook, the Thief, His Wife & Her Lover",NC-17
+4807,The Fifth Estate,R
+4808,Hotel Transylvania 4: Transformania,PG
+4809,Bobby,R
+4810,Picnic at Hanging Rock,PG
+4811,Slap Shot,R
+4812,Incident in a Ghostland,Not Rated
+4813,In the Bedroom,R
+4814,To Live and Die in L.A.,R
+4815,The Curse of the Jade Scorpion,PG-13
+4816,Gallipoli,PG
+4817,Koyaanisqatsi,Not Rated
+4818,Braven,R
+4819,The Physician,R
+4820,Father of the Bride Part II,PG
+4821,Me Time,R
+4822,Bullets Over Broadway,R
+4823,Freaks,R
+4824,Jack Frost,PG
+4825,The Ant Bully,PG
+4826,Kabir Singh,Not Rated
+4827,Hot Tub Time Machine 2,R
+4828,Dear Zachary: A Letter to a Son About His Father,Not Rated
+4829,No Sudden Move,R
+4830,The To Do List,R
+4831,Mr. Holland's Opus,PG
+4832,Dhamaka,TV-14
+4833,777 Charlie,Not Rated
+4834,Drop Dead Gorgeous,PG-13
+4835,Close,PG-13
+4836,Emma,PG
+4837,Eli,R
+4838,Spaceman,R
+4839,Ron's Gone Wrong,PG
+4840,Escape from the Planet of the Apes,G
+4841,Twilight Zone: The Movie,PG
+4842,Oliver!,G
+4843,The Black Cauldron,PG
+4844,Phantasm,R
+4845,Godzilla,Not Rated
+4846,Coco Before Chanel,PG-13
+4847,Chopper,R
+4848,ARQ,TV-MA
+4849,Summer of Sam,R
+4850,Apt Pupil,R
+4851,Transamerica,R
+4852,The Way of the Dragon,R
+4853,Birth,R
+4854,Nyad,PG-13
+4855,Deep Rising,R
+4856,Mean Machine,R
+4857,Drishyam 2,Not Rated
+4858,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,R
+4859,The Cave,PG-13
+4860,Ninja Scroll,Not Rated
+4861,Race,PG-13
+4862,Black Sheep,Not Rated
+4863,Paul Blart: Mall Cop 2,PG
+4864,The Prince and Me,PG
+4865,Anonymous,PG-13
+4866,Happy New Year,TV-14
+4867,Fantasia 2000,G
+4868,Haunt,R
+4869,The Trouble with Harry,PG
+4870,Basic Instinct 2,R
+4871,Three Identical Strangers,PG-13
+4872,Sanjuro,Not Rated
+4873,Overboard,PG-13
+4874,Spread,R
+4875,Prime,PG-13
+4876,Arthur and the Invisibles,PG
+4877,Romper Stomper,R
+4878,Throw Momma from the Train,PG-13
+4879,Hair,PG
+4880,Midnight in the Garden of Good and Evil,R
+4881,Out of the Past,Approved
+4882,The Three Burials of Melquiades Estrada,R
+4883,Antim: The Final Truth,Not Rated
+4884,This Is It,PG
+4885,Peggy Sue Got Married,PG-13
+4886,The Roommate,PG-13
+4887,The Last Kiss,R
+4888,Oddity,R
+4889,Your Place or Mine,PG-13
+4890,Five Easy Pieces,R
+4891,In a Better World,R
+4892,Henry: Portrait of a Serial Killer,Unrated
+4893,Drugstore Cowboy,R
+4894,Malcolm & Marie,R
+4895,Splinter,R
+4896,May,R
+4897,Kill Your Darlings,R
+4898,The Changeling,R
+4899,The Joneses,R
+4900,And Justice for All,R
+4901,Late Night,R
+4902,Spider,R
+4903,The Act of Killing,Not Rated
+4904,Don,Not Rated
+4905,Love and Death,PG
+4906,The Believer,R
+4907,The Art of Self-Defense,R
+4908,At Eternity's Gate,PG-13
+4909,Black Sea,R
+4910,Death on the Nile,PG
+4911,Leo,PG
+4912,After.Life,R
+4913,Main Hoon Na,Not Rated
+4914,Body Double,R
+4915,Lamb,R
+4916,Detroit Rock City,R
+4917,Hearts in Atlantis,PG-13
+4918,Annie,PG
+4919,The Hate U Give,PG-13
+4920,Up in Smoke,R
+4921,Hypnotic,R
+4922,Copshop,R
+4923,Baraka,Not Rated
+4924,Caddo Lake,PG-13
+4925,The Tragedy of Macbeth,R
+4926,The Andromeda Strain,G
+4927,The Howling,R
+4928,Bedknobs and Broomsticks,G
+4929,Stranger Than Paradise,R
+4930,The Last House on the Left,R
+4931,The Invisible Man,Approved
+4932,Honey Boy,R
+4933,Sierra Burgess Is a Loser,PG-13
+4934,It's What's Inside,R
+4935,Stree 2: Sarkate Ka Aatank,Not Rated
+4936,The Hunter,R
+4937,Mustang,PG-13
+4938,Body Heat,R
+4939,Severance,R
+4940,Peeping Tom,Not Rated
+4941,Bully,TV-MA
+4942,Alvin and the Chipmunks: Chipwrecked,G
+4943,The Art of Racing in the Rain,PG
+4944,'83,TV-14
+4945,The Cannonball Run,PG
+4946,The Messengers,PG-13
+4947,The People Under the Stairs,R
+4948,Kicking & Screaming,PG
+4949,Happy-Go-Lucky,R
+4950,Tae Guk Gi: The Brotherhood of War,R
+4951,Deadfall,R
+4952,Going Clear: Scientology & the Prison of Belief,Not Rated
+4953,Hold the Dark,TV-MA
+4954,Spun,Unrated
+4955,Looney Tunes: Back in Action,PG
+4956,Girls Trip,R
+4957,Big Fat Liar,PG
+4958,Wolfwalkers,PG
+4959,The Lost Weekend,Approved
+4960,The Order,R
+4961,Whiteout,R
+4962,Chasing Liberty,PG-13
+4963,Man of Tai Chi,R
+4964,Rubber,R
+4965,Soul Kitchen,Not Rated
+4966,Deception,R
+4967,Turistas,R
+4968,Maniac,Not Rated
+4969,The Accused,R
+4970,Willy's Wonderland,TV-MA
+4971,We Are Your Friends,R
+4972,Mr. Harrigan's Phone,PG-13
+4973,Spy Hard,PG-13
+4974,Ivan's Childhood,Not Rated
+4975,Wild Target,PG-13
+4976,The Crucible,PG-13
+4977,Plan 9 from Outer Space,Approved
+4978,Kisi Ka Bhai Kisi Ki Jaan,Not Rated
+4979,World's Greatest Dad,R
+4980,Tom & Jerry,PG
+4981,Small Time Crooks,PG
+4982,After We Collided,R
+4983,Southland Tales,R
+4984,All the Bright Places,TV-MA
+4985,Doc Hollywood,PG-13
+4986,The Shop Around the Corner,Approved
+4987,Ghost in the Shell 2: Innocence,PG-13
+4988,Lionheart,R
+4989,The Red Shoes,Not Rated
+4990,"Good Luck to You, Leo Grande",R
+4991,Astro Boy,PG
+4992,Message in a Bottle,PG-13
+4993,Vishwaroopam,Not Rated
+4994,Watership Down,PG
+4995,9 to 5,PG
+4996,Liberal Arts,PG-13
+4997,License to Wed,PG-13
+4998,Bulletproof,R
+4999,The Many Adventures of Winnie the Pooh,G
+5000,Kimi,R
