@@ -9,6 +9,17 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 from scipy.sparse import hstack
 import numpy as np
+import matplotlib.pyplot as plt
+import networkx as nx
+import seaborn as sns
+import ast
+import squarify
+from ast import literal_eval
+from collections import defaultdict
+from itertools import combinations
+from mpl_toolkits.mplot3d import Axes3D
+from wordcloud import WordCloud
+from pandas.plotting import parallel_coordinates
 # Load data
 df = pd.read_csv("D:\\Project Data Science Tools\\movies_with_imdb_data.csv")
 
@@ -185,3 +196,209 @@ print("\n🔸 Top Actors by Average Rating:")
 print(top_actors_by_rating)
 
 print(f"\n🔸 Correlation between Runtime and Rating: {correlation:.3f}")
+
+df = pd.read_csv('D:\\Project Data Science Tools\\cleaned_movies_data.csv')
+# Ensure 'genres' is in list format
+df['genres'] = df['genres'].apply(literal_eval)
+
+# Explode the genre lists into separate rows
+all_genres = df.explode('genres')
+genre_counts = all_genres['genres'].value_counts()
+
+# Plot the bar chart
+plt.figure(figsize=(10,6))
+sns.barplot(x=genre_counts.values, y=genre_counts.index, palette="viridis")
+plt.title("Genre Frequency")
+plt.xlabel("Count")
+plt.ylabel("Genre")
+plt.tight_layout()
+plt.show()
+
+plt.figure(figsize=(8,5))
+sns.histplot(df['rating'], bins=20, kde=True, color='blue')
+plt.title("Rating Distribution")
+plt.xlabel("Rating")
+plt.ylabel("Frequency")
+plt.tight_layout()
+plt.show()
+
+plt.figure(figsize=(8,5))
+sns.regplot(data=df, x='votes_numeric', y='rating', scatter_kws={'alpha':0.5}, line_kws={'color': 'red'})
+plt.title("Votes vs. Rating")
+plt.xlabel("Votes")
+plt.ylabel("Rating")
+plt.tight_layout()
+plt.show()
+
+df['directors'] = df['directors'].apply(literal_eval)
+top_directors = df.explode('directors')['directors'].value_counts().head(10)
+
+plt.figure(figsize=(10,6))
+sns.barplot(x=top_directors.values, y=top_directors.index, palette="mako")
+plt.title("Top 10 Directors by Number of Movies")
+plt.xlabel("Number of Movies")
+plt.ylabel("Director")
+plt.tight_layout()
+plt.show()
+
+plt.figure(figsize=(8,5))
+sns.boxplot(data=df, x='runtime_minutes', color='lightgreen')
+plt.title("Runtime Distribution")
+plt.xlabel("Runtime (minutes)")
+plt.tight_layout()
+plt.show()
+
+df['countries'] = df['countries'].apply(lambda x: ast.literal_eval(x) if pd.notnull(x) else [])
+country_counts = df['countries'].apply(lambda x: x[0] if len(x) > 0 else '').value_counts().head(15)
+plt.figure(figsize=(14, 10))  
+squarify.plot(
+    sizes=country_counts.values, 
+    label=country_counts.index, 
+    alpha=0.8,
+    text_kwargs={'fontsize': 10, 'wrap': True}
+)
+plt.title('Movie Count by First Country (Top 15 Countries)')
+plt.axis('off')
+plt.show()
+
+text = " ".join(df['plot'].dropna().tolist())
+
+wordcloud = WordCloud(width=1000, height=500, background_color='white').generate(text)
+
+plt.figure(figsize=(15,7))
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.axis('off')
+plt.title("Word Cloud from Plot Descriptions")
+plt.tight_layout()
+plt.show()
+
+df['decade'] = (df['year'] // 10) * 10
+decade_avg = df.groupby('decade')['rating'].mean().reset_index()
+
+plt.figure(figsize=(10,5))
+sns.lineplot(data=decade_avg, x='decade', y='rating', marker='o')
+plt.title("Average Rating by Decade")
+plt.xlabel("Decade")
+plt.ylabel("Average Rating")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+# Select the top 10 movies
+df_top10 = df.head(10).copy()
+
+# Ensure the 'cast' column is a list
+df_top10['cast'] = df_top10['cast'].apply(literal_eval)
+
+# Create a dictionary to store co-occurrence counts between actors
+co_occurrence = defaultdict(int)
+
+# Count co-appearances among the top 3 actors in each movie
+for cast_list in df_top10['cast']:
+    top_actors = cast_list[:3]
+    for pair in combinations(top_actors, 2):
+        sorted_pair = tuple(sorted(pair))  
+        co_occurrence[sorted_pair] += 1
+
+# Extract all unique actors from the co-occurrence data
+all_actors = sorted(set([actor for pair in co_occurrence for actor in pair]))
+
+# Create the co-occurrence matrix
+matrix = pd.DataFrame(0, index=all_actors, columns=all_actors)
+
+for (actor1, actor2), count in co_occurrence.items():
+    matrix.loc[actor1, actor2] = count
+    matrix.loc[actor2, actor1] = count 
+
+# Plot the heatmap
+plt.figure(figsize=(18, 15))
+sns.heatmap(matrix, cmap="YlGnBu", linewidths=0.5, linecolor='gray', square=True)
+plt.title("Actor Co-occurrence Heatmap (Top 3 Actors in Top 10 Movies)", fontsize=16)
+plt.xticks(rotation=90)
+plt.yticks(rotation=0)
+plt.tight_layout()
+
+fig = plt.figure(figsize=(10,7))
+ax = fig.add_subplot(111, projection='3d')
+
+ax.scatter(df['rating'], df['runtime_minutes'], df['votes_numeric'], c='teal', alpha=0.5)
+ax.set_xlabel('Rating')
+ax.set_ylabel('Runtime (min)')
+ax.set_zlabel('Votes')
+ax.set_title('3D Scatter Plot: Rating × Runtime × Votes')
+
+plt.tight_layout()
+plt.show()
+
+# Select a small sample to make the plot clearer
+sample = df[['rating', 'runtime_minutes', 'votes_numeric', 'age_group']].dropna().sample(500)
+
+plt.figure(figsize=(12,6))
+parallel_coordinates(sample, class_column='age_group', colormap=plt.get_cmap("Set1"))
+plt.title("Parallel Coordinates Plot")
+plt.tight_layout()
+plt.show()
+
+# Keep a copy of the top 50 rows only
+df_top50 = df.head(50).copy()
+
+# Safely convert stringified lists to actual lists (if needed)
+df_top50['directors'] = df_top50['directors'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
+df_top50['cast'] = df_top50['cast'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
+
+# Build the network graph
+G = nx.Graph()
+
+for _, row in df_top50.iterrows():
+    for director in row['directors']:
+        for actor in row['cast'][:3]:  # Focus only on the first 3 actors
+            G.add_node(director, type='director')
+            G.add_node(actor, type='actor')
+            G.add_edge(director, actor)
+
+# Assign colors based on node type
+node_colors = ['#1f77b4' if data['type'] == 'director' else '#ff7f0e' for _, data in G.nodes(data=True)]
+
+# Plotting
+plt.figure(figsize=(16, 12))
+pos = nx.spring_layout(G, k=0.5, seed=42)
+nx.draw(
+    G, pos,
+    node_color=node_colors,
+    edge_color='gray',
+    with_labels=True,
+    node_size=700,
+    font_size=8,
+    font_weight='bold'
+)
+plt.title("Actor-Director Collaboration Network (Top Movies)", fontsize=14)
+plt.tight_layout()
+plt.show()
+
+# If genres are stored as strings like "['Drama', 'Action']"
+df['genres'] = df['genres'].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
+
+# Create a new DataFrame with one row per genre per year
+rows = []
+for _, row in df.iterrows():
+    year = row['year']
+    for genre in row['genres']:
+        rows.append({'year': year, 'genre': genre})
+
+df_expanded = pd.DataFrame(rows)
+
+# Count number of movies per genre per year
+genre_counts = df_expanded.groupby(['year', 'genre']).size().unstack(fill_value=0)
+
+# Sort years in order
+genre_counts = genre_counts.sort_index()
+
+# Plot the stacked area chart
+plt.figure(figsize=(14, 7))
+genre_counts.plot.area(colormap='tab20', figsize=(14, 7))
+plt.title('Genre Popularity Over Time', fontsize=16)
+plt.xlabel('Year', fontsize=12)
+plt.ylabel('Number of Movies', fontsize=12)
+plt.grid(True)
+plt.tight_layout()
+plt.show()
