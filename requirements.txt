@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+squarify
+networkx
+wordcloud
+scikit-learn
+scipy
+pymongo
