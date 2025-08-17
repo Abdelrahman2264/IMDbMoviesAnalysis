@@ -48,11 +48,6 @@ IMDbMoviesAnalysis/
 ├─ notebooks/              # optional EDA
 ├─ requirements.txt
 └─ README.md
-```
-
-> Your Streamlit file provides tabs like **Overview**, **People Analytics**, **Geographic & Genre**, **Trends & Relationships**, **Machine Learning**, and **MongoDB & JSON** with save/export controls. fileciteturn0file0
-
----
 
 ## ⚙️ Setup
 
@@ -242,9 +237,7 @@ python-dotenv
 
 ---
 
-## 📝 License
-
-MIT (or your preferred license).
+## 📝 License (MIT)
 
 ---
 
